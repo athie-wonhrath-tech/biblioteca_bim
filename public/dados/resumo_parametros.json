@@ -1,0 +1,21 @@
+{
+  "count": 199,
+  "groups": 13,
+  "group_counts": {
+    "MARCENARIA": 29,
+    "DOCUMENTAÇÃO": 19,
+    "PLUMBING FIXTURES": 8,
+    "MOBILIÁRIO DECORATIVO/INDUSTRIAL": 32,
+    "PORTAS": 39,
+    "LOUSA E ESPELHO": 3,
+    "SHOWROOM": 18,
+    "LEVANTAMENTO": 10,
+    "GERAL": 13,
+    "IFC": 5,
+    "ELÉTRICA": 17,
+    "DIVISÓRIA INDUSTRIAL": 1,
+    "DRYWALL": 5
+  },
+  "duplicate_guids": [],
+  "note": "Definições no TXT; aplicação aos modelos e vínculo tipo/instância não verificados."
+}

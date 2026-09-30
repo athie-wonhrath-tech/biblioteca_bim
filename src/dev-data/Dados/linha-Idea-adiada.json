@@ -1,0 +1,52 @@
+{
+  "reason": "Three correlated native geometry crashes; entire Idea line deferred by user",
+  "items": [
+    {
+      "name": "Idea-40101-Soft_V18.rfa",
+      "sha256": "05b4f7d985c734ab14ddd6cf7b0385b4ad38f488d6a48b58b04031c81144de23",
+      "status": "test_error",
+      "actually_attempted": true
+    },
+    {
+      "name": "Idea-40102-Soft_V18.rfa",
+      "sha256": "a63e5f181b271e64bbede05a576a775af604bccd29005e2b3e986db51ef6221d",
+      "status": "test_error",
+      "actually_attempted": true
+    },
+    {
+      "name": "Idea-40106-Soft_V18.rfa",
+      "sha256": "dcc4541c98f01d3c5d28632a0ba87d92bae522235ab3489ebf0fd3f27c6c20ed",
+      "status": "deferred_related_crash",
+      "actually_attempted": false
+    },
+    {
+      "name": "Idea-40122_V18.rfa",
+      "sha256": "3fedec61b766f548ae1d687e989e4896d6ce257cf884ae66120c3758172dc8ae",
+      "status": "test_error",
+      "actually_attempted": true
+    },
+    {
+      "name": "Idea-40202-SR_V18.rfa",
+      "sha256": "ccde4302976d27b7ba06fe92c92c91b22034efae111054300fdbcf3b2112f720",
+      "status": "deferred_related_crash",
+      "actually_attempted": false
+    },
+    {
+      "name": "Idea-40202-Mesh_V18.rfa",
+      "sha256": "f9fde3c25bf3b3bec9eb7102d6b16b44c72320ba7cd2d7ff0809dbc54e55ee10",
+      "status": "deferred_related_crash",
+      "actually_attempted": false
+    },
+    {
+      "name": "Idea-40206-Mesh_V18.rfa",
+      "sha256": "c40e247d019e615443a54113c6bb6759f3153c242edcdceb7191d146353178e8",
+      "status": "deferred_related_crash",
+      "actually_attempted": false
+    }
+  ],
+  "observed_crashes": 3,
+  "preventively_deferred": 4,
+  "originals_preserved": true,
+  "resume_confirmed_file": "Joy-41008_V18.rfa",
+  "resume_result": "automated_checks_passed"
+}

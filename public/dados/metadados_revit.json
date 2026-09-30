@@ -1,0 +1,54 @@
+[
+  {
+    "file": "SHOWROOM_Novo BIM_V2026.rvt",
+    "method": "OLE BasicFileInfo, bloco textual UTF-16LE a partir de Worksharing, sem API Revit",
+    "fields": {
+      "Worksharing": "Not enabled",
+      "Username": "",
+      "Central Model Path": "",
+      "Format": "2026",
+      "Build": "20251103_1515(x64)",
+      "Last Save Path": "R:\\revit\\_Novo BIM\\Showroom e Bibliotecas\\_NOVO SHOWROOM 2026\\SHOWROOM_Novo BIM_V2026.rvt",
+      "Open Workset Default": "4",
+      "Project Spark File": "0",
+      "Central Model Identity": "00000000-0000-0000-0000-000000000000",
+      "Locale when saved": "ENU",
+      "All Local Changes Saved To Central": "0",
+      "Central model's version number corresponding to the last reload latest": "8",
+      "Central model's episode GUID corresponding to the last reload latest": "647ff9fd-39a7-4e30-a540-d5eed0fb8065",
+      "Unique Document GUID": "647ff9fd-39a7-4e30-a540-d5eed0fb8065",
+      "Unique Document Increments": "8",
+      "Model Identity": "00000000-0000-0000-0000-000000000000",
+      "IsSingleUserCloudModel": "False",
+      "Author": "Autodesk Revit",
+      "ClientAppName": "RevitApplication਍"
+    },
+    "text": "Worksharing: Not enabled\r\nUsername: \r\nCentral Model Path: \r\nFormat: 2026\r\nBuild: 20251103_1515(x64)\r\nLast Save Path: R:\\revit\\_Novo BIM\\Showroom e Bibliotecas\\_NOVO SHOWROOM 2026\\SHOWROOM_Novo BIM_V2026.rvt\r\nOpen Workset Default: 4\r\nProject Spark File: 0\r\nCentral Model Identity: 00000000-0000-0000-0000-000000000000\r\nLocale when saved: ENU\r\nAll Local Changes Saved To Central: 0\r\nCentral model's version number corresponding to the last reload latest: 8\r\nCentral model's episode GUID corresponding to the last reload latest: 647ff9fd-39a7-4e30-a540-d5eed0fb8065\r\nUnique Document GUID: 647ff9fd-39a7-4e30-a540-d5eed0fb8065\r\nUnique Document Increments: 8\r\nModel Identity: 00000000-0000-0000-0000-000000000000\r\nIsSingleUserCloudModel: False\r\nAuthor: Autodesk Revit\r\nClientAppName: RevitApplication਍"
+  },
+  {
+    "file": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "method": "OLE BasicFileInfo, bloco textual UTF-16LE a partir de Worksharing, sem API Revit",
+    "fields": {
+      "Worksharing": "Not enabled",
+      "Username": "",
+      "Central Model Path": "",
+      "Format": "2026",
+      "Build": "20251103_1515(x64)",
+      "Last Save Path": "R:\\revit\\_Novo BIM\\Showroom e Bibliotecas\\_NOVO SHOWROOM 2026\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+      "Open Workset Default": "3",
+      "Project Spark File": "0",
+      "Central Model Identity": "00000000-0000-0000-0000-000000000000",
+      "Locale when saved": "ENU",
+      "All Local Changes Saved To Central": "0",
+      "Central model's version number corresponding to the last reload latest": "18",
+      "Central model's episode GUID corresponding to the last reload latest": "af020eed-eab2-43d9-af75-f67a6a646e72",
+      "Unique Document GUID": "af020eed-eab2-43d9-af75-f67a6a646e72",
+      "Unique Document Increments": "18",
+      "Model Identity": "00000000-0000-0000-0000-000000000000",
+      "IsSingleUserCloudModel": "False",
+      "Author": "Autodesk Revit",
+      "ClientAppName": "RevitApplication਍"
+    },
+    "text": "Worksharing: Not enabled\r\nUsername: \r\nCentral Model Path: \r\nFormat: 2026\r\nBuild: 20251103_1515(x64)\r\nLast Save Path: R:\\revit\\_Novo BIM\\Showroom e Bibliotecas\\_NOVO SHOWROOM 2026\\AW26_DETALHES CONSTRUTIVOS_R00.rvt\r\nOpen Workset Default: 3\r\nProject Spark File: 0\r\nCentral Model Identity: 00000000-0000-0000-0000-000000000000\r\nLocale when saved: ENU\r\nAll Local Changes Saved To Central: 0\r\nCentral model's version number corresponding to the last reload latest: 18\r\nCentral model's episode GUID corresponding to the last reload latest: af020eed-eab2-43d9-af75-f67a6a646e72\r\nUnique Document GUID: af020eed-eab2-43d9-af75-f67a6a646e72\r\nUnique Document Increments: 18\r\nModel Identity: 00000000-0000-0000-0000-000000000000\r\nIsSingleUserCloudModel: False\r\nAuthor: Autodesk Revit\r\nClientAppName: RevitApplication਍"
+  }
+]

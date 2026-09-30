@@ -1,0 +1,26 @@
+# Secrets and credentials
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+*.keystore
+id_rsa*
+id_ed25519*
+# Dependencies and caches
+node_modules/
+venv/
+.venv/
+__pycache__/
+*.pyc
+# Generated output
+dist/
+build/
+# Local databases
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+*.sqlite3

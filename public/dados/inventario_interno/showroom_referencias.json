@@ -1,0 +1,98 @@
+﻿[
+  {
+    "id": 109330,
+    "type": "KeynoteTable",
+    "path": "",
+    "status": "NotFound"
+  },
+  {
+    "id": 171508,
+    "type": "AssemblyCodeTable",
+    "path": "",
+    "status": "NotFound"
+  },
+  {
+    "id": 1197786,
+    "type": "CADLink",
+    "path": "R:\\revit\\treinamentos\\Treinamento 2019\\Base\\arquivo base - interiores.dwg",
+    "status": "Loaded"
+  },
+  {
+    "id": 1532537,
+    "type": "CADLink",
+    "path": "R:\\revit\\treinamentos\\Treinamento 2019\\Base\\arquivo base - interiores.dwg",
+    "status": "Loaded"
+  },
+  {
+    "id": 2406792,
+    "type": "CADLink",
+    "path": "\\\\corolla\\focus\\projetos\\3656.23 BM\\LINKCAD\\DUEF-ARQ-LO-T102-TIP-08P-R06_BASE REVIT.dwg",
+    "status": "Loaded"
+  },
+  {
+    "id": 2406890,
+    "type": "CADLink",
+    "path": "\\\\corolla\\focus\\projetos\\3656.23 BM\\LINKCAD\\DUEF-ARQ-LO-T102-TIP-07P-R06_BASE REVIT.dwg",
+    "status": "Loaded"
+  },
+  {
+    "id": 2406988,
+    "type": "CADLink",
+    "path": "\\\\corolla\\focus\\projetos\\3656.23 BM\\LINKCAD\\DUEF-ARQ-LO-T102-TIP-06P-R06_BASE REVIT.dwg",
+    "status": "Loaded"
+  },
+  {
+    "id": 2407086,
+    "type": "CADLink",
+    "path": "\\\\corolla\\focus\\projetos\\3656.23 BM\\LINKCAD\\DUEF-ARQ-LO-T101-05P-R08_BASE REVIT.dwg",
+    "status": "Loaded"
+  },
+  {
+    "id": 2407224,
+    "type": "CADLink",
+    "path": "\\\\corolla\\focus\\projetos\\3656.23 BM\\LINKCAD\\DUEF-ARQ-LO-T104-11P-R06_MEZANINO_BASE REVIT.dwg",
+    "status": "Loaded"
+  },
+  {
+    "id": 2407307,
+    "type": "CADLink",
+    "path": "\\\\corolla\\focus\\projetos\\3656.23 BM\\LINKCAD\\DUEF-ARQ-LO-T107-09P-R04_BASE REVIT.dwg",
+    "status": "Loaded"
+  },
+  {
+    "id": 2407406,
+    "type": "CADLink",
+    "path": "\\\\corolla\\focus\\projetos\\3656.23 BM\\LINKCAD\\DUEF-ARQ-LO-T104-11P-R06_BASE REVIT.dwg",
+    "status": "Loaded"
+  },
+  {
+    "id": 2407517,
+    "type": "CADLink",
+    "path": "\\\\corolla\\focus\\projetos\\3656.23 BM\\LINKCAD\\DUEF-ARQ-LO-T105-COB-R07_13 PAV_BASE REVIT.dwg",
+    "status": "Loaded"
+  },
+  {
+    "id": 2407633,
+    "type": "CADLink",
+    "path": "\\\\corolla\\focus\\projetos\\3656.23 BM\\LINKCAD\\DUEF-ARQ-LO-T103-10P-R06_BASE REVIT.dwg",
+    "status": "Loaded"
+  },
+  {
+    "id": 2407744,
+    "type": "CADLink",
+    "path": "\\\\corolla\\focus\\projetos\\3656.23 BM\\LINKCAD\\DUEF-ARQ-LO-G112-TE4-R08_BASE REVIT.dwg",
+    "status": "Loaded"
+  },
+  {
+    "id": 2407898,
+    "type": "CADLink",
+    "path": "\\\\corolla\\focus\\projetos\\3656.23 BM\\LINKCAD\\DUEF-ARQ-LO-G111-TE3-R09_BASE REVIT.dwg",
+    "status": "Loaded"
+  },
+  {
+    "id": 2408072,
+    "type": "CADLink",
+    "path": "\\\\corolla\\focus\\projetos\\3656.23 BM\\LINKCAD\\DUEF-ARQ-LO-G106-TER-R08_BASE REVIT.dwg",
+    "status": "Loaded"
+  }
+]

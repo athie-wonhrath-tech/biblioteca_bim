@@ -1,0 +1,47 @@
+{
+  "active": 1429,
+  "deferred_supplier": "Steelcase",
+  "deferred_files": 3771,
+  "reason": "Decisão do usuário: adiar auditoria e ocultar visualização pública",
+  "records_preserved": true,
+  "files_preserved": true,
+  "public_visibility": "unchanged_until_remaining_audit_complete",
+  "previous_process_closed_after_checkpoint": 525,
+  "resume_queue_verified_no_steelcase": true,
+  "steelcase_in_active_queue": 0,
+  "resume_evidence": "events.log STARTUP 1429 at 2026-09-30T11:21:12.6727031Z; BEGIN next unprocessed family at 11:21:17",
+  "deferred_line": {
+    "supplier": "Cavaletti",
+    "line": "Idea",
+    "files": 7,
+    "observed_crashes": 3,
+    "not_tested_deferred": 4,
+    "visibility": "unchanged",
+    "enforcement": "per-file quarantine reports consumed before processing; confirmed next non-Idea completed"
+  },
+  "idea_policy": {
+    "supplier": "Cavaletti",
+    "line": "Idea",
+    "excluded_from_all_passes": true,
+    "retry_authorized": false,
+    "observed_crashes": 3,
+    "excluded_without_test": 4,
+    "preserve_files": true,
+    "public_visibility": "unchanged"
+  },
+  "stilo_policy": {
+    "line": "Stilo",
+    "supplier": "Cavaletti",
+    "excluded_from_all_future_passes": true,
+    "retry_authorized": false,
+    "crashes": [
+      "Stilo-8207S_V18.rfa",
+      "Stilo-8210_V18.rfa"
+    ],
+    "excluded_without_test": [
+      "Stilo-8223_V18.rfa"
+    ],
+    "preserve_previous_results": true,
+    "public_visibility": "unchanged"
+  }
+}

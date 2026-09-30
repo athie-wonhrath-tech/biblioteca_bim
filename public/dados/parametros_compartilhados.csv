@@ -1,0 +1,200 @@
+﻿GUID,NAME,DATATYPE,DATACATEGORY,GROUP,VISIBLE,DESCRIPTION,USERMODIFIABLE,HIDEWHENNOVALUE,GROUP_NAME
+50d21401-67ae-4f95-8355-b9eb5b47ccf1,MAR_gaveta_acab,MATERIAL,,16,1,,1,0,MARCENARIA
+77423201-7e78-4510-a254-49a3dc3613ad,Nome do edificio,TEXT,,8,1,Nome do edifício do projeto,1,0,DOCUMENTAÇÃO
+b5c9c801-a9f2-4d9e-a0c0-9c758a898371,HD_altura,LENGTH,,13,1,,1,0,PLUMBING FIXTURES
+2c1d3b02-bcaf-4be5-9c80-4d88765f1947,Material_Screen,MATERIAL,,15,1,Material screen &#xD&#xA,1,0,MOBILIÁRIO DECORATIVO/INDUSTRIAL
+99e13503-3dc6-4f17-baed-3e99e1801032,MOB_prof,LENGTH,,15,1,,1,0,MOBILIÁRIO DECORATIVO/INDUSTRIAL
+4d57fe03-139d-4e25-a202-50f550bdecb9,Visor_Altura,LENGTH,,10,1,,1,0,PORTAS
+a3537605-0b89-4820-ae61-6fab160acf45,MAR_caixa_alt,LENGTH,,16,1,,1,0,MARCENARIA
+edbb1f06-c6db-4f3f-a853-9f9c57b4f365,Acabamento_Encosto,TEXT,,15,1,,1,0,MOBILIÁRIO DECORATIVO/INDUSTRIAL
+e4fd8606-85a8-4a4f-bc71-339685c86694,Acabamento_Painel,TEXT,,15,1,,1,0,MOBILIÁRIO DECORATIVO/INDUSTRIAL
+cdbe1a07-4411-4b2f-8eba-393530cef889,tipo de instalação,TEXT,,14,1,,1,0,LOUSA E ESPELHO
+504ebd07-b00c-40bd-b5fe-5352c79ced00,Disciplina da folha,TEXT,,8,1,Informa a disciplina em que se encontra a publicação do projeto,1,0,DOCUMENTAÇÃO
+ecd4d407-a168-4131-9287-001be8e760a0,Shaft_h piso,LENGTH,,10,1,,1,0,PORTAS
+bd97d807-5cfe-4080-81f6-9af32c3cfee8,reforço_altura,LENGTH,,7,1,,1,0,SHOWROOM
+a0635c0c-dfbc-4094-bfae-7fad00c35f00,MOB_gaveteiro_larg,LENGTH,,15,1,,1,0,MOBILIÁRIO DECORATIVO/INDUSTRIAL
+5c382115-617c-4422-81da-c9c8b8e29714,Conectividade,YESNO,,15,1,,1,0,MOBILIÁRIO DECORATIVO/INDUSTRIAL
+04a2f016-cb32-4f2b-ad4c-79a2c3ffeec9,Acabamento_grelha,MATERIAL,,10,1,,1,0,PORTAS
+81a6bf1a-41ac-4379-b623-75a1e17d08fa,A reaproveitar,YESNO,,2,1,Elemento a ser reaproveitado,1,0,LEVANTAMENTO
+53ca4e1c-bbce-4717-9708-6262d0f79ae6,MAR_porta_alt,LENGTH,,16,1,,1,0,MARCENARIA
+c977d11c-6250-42c9-9d68-a82aca07dce8,Ferragens,TEXT,,10,1,,1,0,PORTAS
+6002111e-0755-437a-bfcf-fc764ef5a5fd,Bandeira Superior,LENGTH,,10,1,,1,0,PORTAS
+dbce2321-b72d-4e14-999e-b05623d17e9d,MAR_acessório_acab,MATERIAL,,16,1,,1,0,MARCENARIA
+ed054521-aed4-4476-9e0b-2fc41667d20c,Acabamento_Folha,TEXT,,10,1,,1,0,PORTAS
+74806f21-0926-4d35-a74c-1e9a18a0bfb8,Disciplina,TEXT,,1,1,,1,0,GERAL
+e0353d23-f777-4b37-b0e3-8c412f364e6d,MAR_larg,LENGTH,,16,1,,1,0,MARCENARIA
+79859524-58ea-4878-871b-1f1745d3b609,Material_Pé,MATERIAL,,7,1,,1,0,SHOWROOM
+c8ba2d27-37f3-4eea-b4cc-4f2a7e51e15b,Grelha_Largura,LENGTH,,10,1,,1,0,PORTAS
+6c440e28-dc9e-42fc-b3a5-12aba28c87eb,Sheet - status abreviado,TEXT,,8,1,Informa o status da folha com abreviação,1,0,DOCUMENTAÇÃO
+eed5da29-7ac4-4b57-9e34-c8ed9281bdd0,Baguete,YESNO,,10,1,,1,0,PORTAS
+4d78432e-a65c-47c5-b3fb-4456e1a68a71,ObjectTypeOverride,TEXT,,5,1,,1,0,IFC
+1a05912e-7b0d-4ef6-b866-8267e3dc2555,MOB_alt,LENGTH,,15,1,,1,0,MOBILIÁRIO DECORATIVO/INDUSTRIAL
+cc177e34-4979-4d51-b713-7bc0f25bd7b1,MOB_base_alt,LENGTH,,15,1,,1,0,MOBILIÁRIO DECORATIVO/INDUSTRIAL
+2ecfca34-f0df-4578-9f38-55430d1b8faf,IfcObjectType,TEXT,,5,1,,1,0,IFC
+c16c0535-ede7-466b-8a1a-2d807b3fe54c,Tamanho da folha,TEXT,,8,1,Parâmetro auxiliar para carimbo de clientes,1,0,DOCUMENTAÇÃO
+bdf5ae35-f9b9-4d56-a3ef-fdda5515ae5d,Visibilidade,YESNO,,1,1,,1,0,GERAL
+2e18e336-d804-48e1-9d0c-663bc240bfa0,DIM_h piso,LENGTH,,1,1,,1,0,GERAL
+cab2e537-c74b-403b-ba04-be19e7580162,Visor_Largura,LENGTH,,10,1,,1,0,PORTAS
+56f88f38-4464-4f30-a84e-798e3843c9a4,Sheet name - complemento,TEXT,,8,1,Complemento do nome da folha,1,0,DOCUMENTAÇÃO
+e0d1213b-6434-483f-953a-53cc24177f44,Guarnição_largura,LENGTH,,10,1,,1,0,PORTAS
+032b2a3d-a468-44f1-94e6-82c479a03146,MAR_gaveta_prof,LENGTH,,16,1,,1,0,MARCENARIA
+c2db8f3e-7aed-40a5-991f-042c27494471,MAR_prof,LENGTH,,16,1,,1,0,MARCENARIA
+8ccd9c40-9127-4d24-b5cb-5163d51f35a6,Depto_Setor,TEXT,,8,1,Setorização,1,0,DOCUMENTAÇÃO
+0a97a640-8371-40e9-8b07-e21905411d77,TAG_ID,TEXT,,1,1,,1,0,GERAL
+1c00f240-60c7-4ec1-b31e-17708ddeefe8,SKU_Focus,TIMEINTERVAL,,7,1,Código para link de famílias no Portal / Focus,1,0,SHOWROOM
+ad0c2a43-3905-477c-96ea-d26767e34bc5,IfcDescription,TEXT,,5,1,,1,0,IFC
+7af0ec45-7350-4f7f-a6dc-84e024bf3f0b,MD_ponto HDMI,NUMBER,,9,1,,1,0,ELÉTRICA
+d0931847-48bf-4000-86db-87d991d39cd1,Status da folha,TEXT,,8,1,Informa o status da folha,1,0,DOCUMENTAÇÃO
+9316de4a-cf02-4f88-8b88-1f4b6fe8e1a6,EL_ponto lógica,NUMBER,,9,1,,1,0,ELÉTRICA
+2ec0014d-7b79-4da3-91a1-143a9a416359,Largura_Bandeira Lateral,LENGTH,,10,1,,1,0,PORTAS
+73fc764d-341f-4aae-a476-9a385d784825,Arquiteto,TEXT,,8,1,Informar qual arquiteto do projeto,1,0,DOCUMENTAÇÃO
+6515804e-2f86-4fe3-9e95-7f28255c83a7,Material_Base,MATERIAL,,15,1,,1,0,MOBILIÁRIO DECORATIVO/INDUSTRIAL
+1217b34f-20fb-40e3-b48a-6d6951a95abf,Grelha_h piso,LENGTH,,10,1,,1,0,PORTAS
+c64ace50-2798-4033-bdf2-a8be9aed3e83,Arquiteto conceituador,TEXT,,8,1,Informa o arquiteto conceituador do projeto (GA),1,0,DOCUMENTAÇÃO
+eb4f9253-8998-4b46-a5bd-c6fd3bd30ff4,MOB_Screen_alt,LENGTH,,15,1,,1,0,MOBILIÁRIO DECORATIVO/INDUSTRIAL
+514baa56-6048-48b1-ba37-bd38f76651ac,Altura,LENGTH,,10,1,,1,0,PORTAS
+bb091657-ce3d-4658-a98f-c45669181bcf,Template Novo BIM,YESNO,,8,1,Informa se o template está na versão NOVO VIM para a rotina de Criador de views,1,0,DOCUMENTAÇÃO
+44a5f257-6b86-4301-8dbd-4d97f1f088a6,MAR_porta basculante_alt,LENGTH,,16,1,,1,0,MARCENARIA
+fefe3758-47ce-4ad7-b92a-48353f14cabf,MAR_prof lixeira,LENGTH,,16,1,,1,0,MARCENARIA
+be38f558-8808-483c-8473-e46521150f14,HDMI,YESNO,,9,1,,1,0,ELÉTRICA
+c93a735d-2bb4-489c-bd18-3e7255bbcf87,Acabamento_Tampo/Prancheta,TEXT,,15,1,,1,0,MOBILIÁRIO DECORATIVO/INDUSTRIAL
+52c2e35d-3318-4d32-b155-c88090778e22,A reaproveitar - externo,YESNO,,2,1,,1,0,LEVANTAMENTO
+cff1425e-3b10-49d8-b064-85410a75e0dc,MAR_gaveta_larg,LENGTH,,16,1,,1,0,MARCENARIA
+4e62e25e-51b9-4a17-9775-fa5daa135a75,Visor_h piso,LENGTH,,10,1,,1,0,PORTAS
+b1163760-d12e-4b79-b5bc-d6b40ecb8839,MOB_gaveteiro_alt,LENGTH,,15,1,,1,0,MOBILIÁRIO DECORATIVO/INDUSTRIAL
+10a71263-7196-4e2a-9c1a-10a8b7d26731,Construçao futura,YESNO,,2,1,Selecionar quando o elmento for construído futuramente,1,0,LEVANTAMENTO
+c4c09a64-376e-4fe5-8118-1f021b418f90,Divisória_Perfil,TEXT,,11,1,,1,0,DIVISÓRIA INDUSTRIAL
+ddf1d565-ffbe-4cba-b7f1-d0155ccb7aad,Reforço_largura,LENGTH,,7,1,,1,0,SHOWROOM
+7d253b66-65c6-4ca1-8a4e-144576d691fa,Material_Porta,MATERIAL,,10,1,,1,0,PORTAS
+87b58b66-4186-447b-bdf9-55ff45b8e7a9,aw_alt,LENGTH,,7,1,,1,0,SHOWROOM
+a910f067-7a29-4e4d-ba19-99c99f604e2c,Grelha_Altura,LENGTH,,10,1,,1,0,PORTAS
+1cdb3e6d-6960-49cb-a21f-9af45f9249e6,Bandô_Altura,LENGTH,,10,1,,1,0,PORTAS
+fd60646d-0ae6-4c30-90db-774b86f88c64,USB,YESNO,,9,1,,1,0,ELÉTRICA
+0a5dba6e-2992-4290-9f7a-3a173c86dad2,Sheet - andar,TEXT,,8,1,Parâmetro antigo: sheet - andar,1,0,DOCUMENTAÇÃO
+f8b8fd6f-1304-4091-a3db-1dab0d92878e,Material_Encosto,MATERIAL,,15,1,,1,0,MOBILIÁRIO DECORATIVO/INDUSTRIAL
+b6e0f970-87a4-4c0d-9c4b-6dd4ac0fc775,montagem_drywall,TEXT,,12,1,,1,0,DRYWALL
+f19cb871-4739-4b94-b5a7-91657ee71c22,MOB_conectividade_larg,LENGTH,,15,1,,1,0,MOBILIÁRIO DECORATIVO/INDUSTRIAL
+58ebd372-6ada-4eb3-ae2b-9735874c7abd,Altura da Folha,LENGTH,,10,1,,1,0,PORTAS
+7a4a5f73-6e6a-4d84-ae5b-646176f0db89,MAR_largura basc lixeira,LENGTH,,16,1,,1,0,MARCENARIA
+3f8dce73-aa98-4b6e-85f8-360d547841e0,MAR_porta_acab,MATERIAL,,16,1,,1,0,MARCENARIA
+9ad8eb73-7ba7-47b8-af6a-274abc890ba4,TAG_ID_RPA_instancia,TEXT,,1,1,Parâmetro para identificação e codificação de elementos para RPA (Robotização de apresentação),1,0,GERAL
+33ca0976-a80a-4d0c-b713-82b05170bfa6,DIM_profunfidade,LENGTH,,1,1,,1,0,GERAL
+eaf93a76-b06d-4a75-ab6d-98f8a519bbd1,MD_ponto VGA+Áudio,NUMBER,,9,1,,1,0,ELÉTRICA
+e6470a79-8b9a-4a66-9ef4-caf0275d7db6,A reaproveitar com reforma,YESNO,,2,1,A reaproveitar com reforma,1,0,LEVANTAMENTO
+ad9be579-5679-4eb6-9184-e64cfaca981f,MAR_tampo_esp,LENGTH,,16,1,,1,0,MARCENARIA
+e3eab57a-329a-4c94-809a-6eed52ee30a0,Barra PCF_comprimento,LENGTH,,10,1,,1,0,PORTAS
+346c427c-70a5-443e-9d4d-b732161966a5,Material_gaveteiro,MATERIAL,,15,1,,1,0,MOBILIÁRIO DECORATIVO/INDUSTRIAL
+b6c4367e-15b2-472f-80c7-6be383c7ddc6,Gerente,TEXT,,8,1,Informar o Gerente do projeto,1,0,DOCUMENTAÇÃO
+e6654481-6128-45fc-b277-6f91a4a7b0f2,Acessórios,TEXT,,10,1,,1,0,PORTAS
+a5630f83-50df-46df-b43a-595f3b626d25,Material_Assento,MATERIAL,,15,1,,1,0,MOBILIÁRIO DECORATIVO/INDUSTRIAL
+2e471883-9a36-4180-a350-21342c14b012,MAR_moldura_acab,MATERIAL,,16,1,,1,0,MARCENARIA
+4ab04784-0f8f-4ba3-97ea-e2e39e9e6721,MAR_floreira_alt,LENGTH,,16,1,,1,0,MARCENARIA
+3ea01087-f679-4b02-849a-8ff381c0daf1,TV_,YESNO,,9,1,,1,0,ELÉTRICA
+54f10888-9aae-42ef-938e-56622ead74e4,MOB_diâm,LENGTH,,15,1,,1,0,MOBILIÁRIO DECORATIVO/INDUSTRIAL
+f5301489-6f9d-4a7a-98c0-cb6771a47041,EL_ponto estabilizado,NUMBER,,9,1,,1,0,ELÉTRICA
+e6384a8a-1f44-4b42-9d1e-6194baa345df,Material_Tampo,MATERIAL,,15,1,,1,0,MOBILIÁRIO DECORATIVO/INDUSTRIAL
+106f2a8b-3006-4864-aaf0-d07ea744b6f1,Width,LENGTH,,7,1,,1,0,SHOWROOM
+9efdbb8b-fc31-4959-a0f3-d5a7ebe57210,MOB_raio,LENGTH,,15,1,,1,0,MOBILIÁRIO DECORATIVO/INDUSTRIAL
+2e2b018e-8511-468e-bd8b-7a90d1023b6f,MAR_caixa_larg,LENGTH,,16,1,,1,0,MARCENARIA
+afcc1a8e-3b48-48f0-a9fa-3d8ef38e128a,Material_Perfil,MATERIAL,,10,1,Material do perfil / montante&#xD&#xA,1,0,PORTAS
+3e64648e-6b33-44aa-a4b4-a953c3f56897,MOB_larg,LENGTH,,15,1,,1,0,MOBILIÁRIO DECORATIVO/INDUSTRIAL
+15ff8a8e-e67d-40f1-8e53-d43e406b3368,Novo,YESNO,,2,1,Selecionar quando o elemento for novo no projeto e com a necessidade de melhor identificação gráfica&#xD&#xA,1,0,LEVANTAMENTO
+33a2b48e-839e-4a87-b88f-c18854bcf610,DIM_altura,LENGTH,,1,1,,1,0,GERAL
+f7d5f08e-dcda-4314-8f2b-893ab313ac73,AMPLIAÇÃO AMBIENTE,YESNO,,1,1,,1,0,GERAL
+9a650e8f-63e1-420e-8add-4f926a5a8bde,MOB_Pé Shaft_prof,LENGTH,,15,1,,1,0,MOBILIÁRIO DECORATIVO/INDUSTRIAL
+a04d848f-2262-4352-814d-bfaabbf04e0a,Material_Puxador,MATERIAL,,7,1,,1,0,SHOWROOM
+e610a68f-e9f8-452e-9c26-1bb463afa51b,septo_drywall,TEXT,,12,1,,1,0,DRYWALL
+9ec20390-e188-4e90-a55f-093a711c5cb3,DIM_largura,LENGTH,,1,1,,1,0,GERAL
+43be2290-9f41-42f3-8079-6e49d60f01cb,Material_acabamento,MATERIAL,,15,1,,1,0,MOBILIÁRIO DECORATIVO/INDUSTRIAL
+0113a090-af76-4ab7-b8f3-8cb45c8fca00,Acabamento_visor moldura,MATERIAL,,10,1,,1,0,PORTAS
+6e795191-76c1-4430-addd-7ce757e3a76a,reforço_largura,LENGTH,,7,1,,1,0,SHOWROOM
+3531ef93-8ca4-4200-bff2-6ee908932af6,Material_Gaveta,MATERIAL,,7,1,,1,0,SHOWROOM
+a0c94b96-8c94-4302-adc3-59e4a2eb9aaf,Vao luz altura,LENGTH,,10,1,,1,0,PORTAS
+eb2dcf97-349e-4be8-bd44-37933a9ebf50,Material_Folha,MATERIAL,,10,1,,1,0,PORTAS
+cb97ef99-934a-413c-a4fa-e55115b84bcc,Raio,LENGTH,,7,1,,1,0,SHOWROOM
+bcdb1d9a-db84-477b-94ff-bbf6fa600889,MOB_espessura,LENGTH,,15,1,,1,0,MOBILIÁRIO DECORATIVO/INDUSTRIAL
+d8505b9b-5f89-4153-a0e3-b319942981ea,MOB_Screen_larg,LENGTH,,15,1,,1,0,MOBILIÁRIO DECORATIVO/INDUSTRIAL
+e304eb9c-ccb7-49ca-a62c-a7a49c073dcc,Abertura Porta Camarão,LENGTH,,10,1,,1,0,PORTAS
+5f74fc9c-f6fd-4b5a-a1e9-7dc10547c166,Andar,TEXT,,1,1,Informa o andar que está trabalhando para orientação no Project Browser,1,0,GERAL
+66877f9f-252c-44fe-8f14-6b04d17c812c,Raio_base,LENGTH,,7,1,,1,0,SHOWROOM
+74148d9f-c919-4de1-b29c-4190b8280de1,MOB_alt_assento,LENGTH,,15,1,,1,0,MOBILIÁRIO DECORATIVO/INDUSTRIAL
+0da4f29f-78f0-46bc-bf03-d8a2447f6998,ESTABILIZADA,YESNO,,9,1,,1,0,ELÉTRICA
+55189ba1-1424-44e1-bfab-877503513967,septo sup._drywall,TEXT,,12,1,,1,0,DRYWALL
+63d284a3-d7ac-4831-b3e6-551cdc0cc11d,MOB_conectividade_prof,LENGTH,,15,1,,1,0,MOBILIÁRIO DECORATIVO/INDUSTRIAL
+4a8281a5-d239-4c12-ab94-f64f7dc1a0d2,ELÉTRICA COMUM,YESNO,,9,1,,1,0,ELÉTRICA
+bab959a7-2e7f-4d4c-845e-64f5cb64dd00,Codigo,TEXT,,1,1,,1,0,GERAL
+61bc7da8-0907-40db-94cc-7022ea0b9467,Remanejar,YESNO,,2,1,,1,0,LEVANTAMENTO
+a47af0a9-4038-4565-a722-9f5d21ed0f80,Existente a permanecer,YESNO,,2,1,Selecionar quando o elemento for existente e permanecerá no projeto,1,0,LEVANTAMENTO
+d3938daa-9aba-4444-a0c9-3c7bfc726078,Premissas do projeto,TEXT,,8,1,Premissas do projeto,1,0,DOCUMENTAÇÃO
+efe07fab-ed7c-44a5-9174-1ac9a6b2dad3,Soleira,YESNO,,10,1,,1,0,PORTAS
+7276acab-7cd4-4d2c-a633-713cc71a3fd8,MAR_porta_larg,LENGTH,,16,1,,1,0,MARCENARIA
+4aade2ab-394f-4d1a-932f-e9f757a79707,MAR_caixa_prof,LENGTH,,16,1,,1,0,MARCENARIA
+743998ac-b3ec-4b81-ad74-f1498f29ec10,aw_larg,LENGTH,,7,1,,1,0,SHOWROOM
+b1ed9dad-5247-41d4-a9e6-6cf9dca69600,Sheet - status (etapa),TEXT,,8,1,Status / etapa do projeto e folha,1,0,DOCUMENTAÇÃO
+45dfa1ad-2d7d-4db9-b41d-3d9c8beaa429,TAG_ID_RPA_type,TEXT,,1,1,Parâmetro para identificação e codificação de elementos para RPA (Robotização de apresentação),1,0,GERAL
+7efae3ad-7bc0-41f2-8d1e-c6bcbe27dc5a,Espessura Folha,LENGTH,,10,1,,1,0,PORTAS
+ddf3ebb0-2c7d-4e1c-83d5-5af2b1c8b008,Assunto do projeto,TEXT,,8,1,Parâmetro auxiliar para carimbo de clientes,1,0,DOCUMENTAÇÃO
+b561a0b3-f1df-44d8-821d-dfcba6795273,MOB_gaveteiro_prof,LENGTH,,15,1,,1,0,MOBILIÁRIO DECORATIVO/INDUSTRIAL
+6f465eb4-d2ec-4b14-992a-7f10343f5320,PTO dist. parede,LENGTH,,13,1,,1,0,PLUMBING FIXTURES
+ac1877b4-1176-4978-be8f-0d94c59fdecd,MAR_puxador_acab,MATERIAL,,16,1,,1,0,MARCENARIA
+e7d47ab4-572c-444f-b83f-3c103d6f0ba7,MAR_gaveta_alt,LENGTH,,16,1,,1,0,MARCENARIA
+41b68eb6-e296-4c0a-a812-1ce1b1fd1695,Div.Sanitária_H final,LENGTH,,13,1,,1,0,PLUMBING FIXTURES
+26e610b8-7fb1-463b-a5d2-c4ec253f5e66,Material_Espaldar,MATERIAL,,7,1,,1,0,SHOWROOM
+0bf329b8-6db3-4853-993f-85a9ce25a563,Div.Sanitária_espessura,LENGTH,,13,1,,1,0,PLUMBING FIXTURES
+9a8b40b8-d217-4499-be75-b077ac9dbf09,IfcName,TEXT,,5,1,,1,0,IFC
+409366b8-30da-4fc9-98b3-2a06ce350889,Acabamento_Soleira/Baguete,MATERIAL,,10,1,,1,0,PORTAS
+c0f987b8-aaf9-4f32-a443-60324e4541c8,aw_comp,LENGTH,,7,1,,1,0,SHOWROOM
+5d0540b9-8ab5-4e0a-8ec9-340912ec31b0,reforço_h do piso,LENGTH,,7,1,,1,0,SHOWROOM
+b7ad7eb9-f494-481b-ad3d-11ed6e85d0b9,acabamento,TEXT,,14,1,,1,0,LOUSA E ESPELHO
+7b0ef7b9-4241-49e8-b11b-3e55ddda7ccf,Nivel do projeto,TEXT,,8,1,"Parâmetro criado para identificar níveis diferentes dentro do mesmo projeto, mesmo referenciados no mesmo andar.",1,0,DOCUMENTAÇÃO
+372bd3bd-b375-49aa-bb1b-681dcc0e2d3b,Acabamento_Assento,TEXT,,15,1,,1,0,MOBILIÁRIO DECORATIVO/INDUSTRIAL
+009661be-eb03-40e0-ab60-b0f8bb04d0c1,Acabamento_visor,MATERIAL,,10,1,,1,0,PORTAS
+6d347ebf-e70b-4000-a69e-413dc8eaed0f,Largura,LENGTH,,10,1,,1,0,PORTAS
+03a7d4bf-0b5d-45e6-af84-7ccb55ff12ec,h instalação,LENGTH,,14,1,,1,0,LOUSA E ESPELHO
+bf1cfebf-e541-49c0-9b30-80e4b8c44218,Guichê_profundidade,LENGTH,,10,1,,1,0,PORTAS
+4afdfac2-2e27-481d-8b35-d4d9381f0df6,MAR_porta_esp,LENGTH,,16,1,,1,0,MARCENARIA
+6ea23cc4-8e32-4b4d-bca3-84732bf85841,Material_Batente,MATERIAL,,10,1,,1,0,PORTAS
+dd93bcc4-bcb4-4a5d-b27f-3e670ae84f43,septo inf._drywall,TEXT,,12,1,,1,0,DRYWALL
+4dfad0c5-5579-42d7-a82e-db2a8ac98df6,Levantamento,YESNO,,2,1,,1,0,LEVANTAMENTO
+fe9b06c8-007a-4dd8-a70a-0483872f5bb2,Etapa do projeto,TEXT,,8,1,Parâmetro para segmentação de fases de Predial em DNN e Desenvolvimento,1,0,DOCUMENTAÇÃO
+f745d8ca-963b-490c-9b2d-30a4e3a2eae2,MAR_moldura_larg,LENGTH,,16,1,,1,0,MARCENARIA
+03ef2dcb-8de6-44e3-b15c-e47ab8ae10a8,Acabamento_Base/Estrutura,TEXT,,15,1,,1,0,MOBILIÁRIO DECORATIVO/INDUSTRIAL
+414aa0cb-cf47-4611-b4fb-aaf2fd8086e3,ÁUDIO,YESNO,,9,1,,1,0,ELÉTRICA
+cec3d4cd-d831-4fcb-a512-e75be48e5942,Batente_largura,LENGTH,,10,1,,1,0,PORTAS
+a47eb3ce-9102-4f8a-8d98-e9d6eafbca58,aw_h do piso,LENGTH,,7,1,,1,0,SHOWROOM
+dc2d59cf-118b-4975-a6d5-1a0c28e91230,Batente_Altura,LENGTH,,10,1,,1,0,PORTAS
+93cc98cf-3712-474c-97ff-e7e3bbff075d,DIM_espessura,LENGTH,,1,1,,1,0,GERAL
+455c54d4-e237-41dd-9db5-e5d9b1de6f2b,MAR_alt lixeira,LENGTH,,16,1,,1,0,MARCENARIA
+2d7e75d5-fd22-4f89-be49-456b27ddc498,MAR_caixa_acab,MATERIAL,,16,1,,1,0,MARCENARIA
+8a7223d6-44d9-4a0a-a495-4eb719a3a60e,Bandô_Largura,LENGTH,,10,1,,1,0,PORTAS
+ef6f80d6-03e3-42c5-a171-367f689b8de4,PTO altura,LENGTH,,13,1,,1,0,PLUMBING FIXTURES
+117a0bd7-9f87-416e-8d61-20a91cc51b64,MOB_tampo_larg,LENGTH,,15,1,,1,0,MOBILIÁRIO DECORATIVO/INDUSTRIAL
+11f2c2d7-90ac-4771-a435-55eebb47dae0,EL_ponto comum,NUMBER,,9,1,,1,0,ELÉTRICA
+2b4e26d8-c8d7-408a-acb3-407548767ef5,Remanejado,YESNO,,2,1,Selecionar quando o elemento existente seja remanejado no mesmo projeto,1,0,LEVANTAMENTO
+01ba2ada-1527-4be7-b436-d4d98c2639a2,MAR_alt,LENGTH,,16,1,,1,0,MARCENARIA
+bf3ab7da-d775-4b60-810a-f465984a1cdf,Largura da Folha,LENGTH,,10,1,,1,0,PORTAS
+32e9cddc-d095-47a8-9dbe-a75e0fe9f5ad,IfcTag,TEXT,,5,1,,1,0,IFC
+0347a7dd-9d91-45b0-a6e2-9bb55677b7e4,EL_ponto TV,NUMBER,,9,1,,1,0,ELÉTRICA
+476cdfde-78e2-4414-9f4b-083989ce3a69,LÓGICA,YESNO,,9,1,,1,0,ELÉTRICA
+4aabbfe0-7183-4c1b-b6a9-c563d95ab1dd,Material_Painel,MATERIAL,,15,1,,1,0,MOBILIÁRIO DECORATIVO/INDUSTRIAL
+ff3118e1-fadb-4c04-9ecf-b752126ad1b7,MAR_floreira_larg,LENGTH,,16,1,,1,0,MARCENARIA
+e8a4d1e1-559e-4de0-8624-f6bec7b0bcf6,A remanejar,YESNO,,2,1,Selecionar quando o elemento existente tenha necessidade de remanejar em outro ambiente,1,0,LEVANTAMENTO
+2fe6a3e4-9627-4fb9-b312-a23e8df5418a,Div.Sanitária_H piso,LENGTH,,13,1,,1,0,PLUMBING FIXTURES
+323afae4-5a90-4904-8845-9af3b1e5f658,MAR_altura basc lixeira,LENGTH,,16,1,,1,0,MARCENARIA
+3a1ee1e5-8bd5-4d28-82ce-c7ac5784fc43,Acabamento_batente,TEXT,,10,1,,1,0,PORTAS
+b961c7e6-2ce8-43ee-b7ef-18ee1de6f1af,EL_acabamento,MATERIAL,,9,1,,1,0,ELÉTRICA
+f65922ec-11f7-43e6-8fc2-b87afc8b966f,MAR_tampo_acab,MATERIAL,,16,1,,1,0,MARCENARIA
+651016ee-172d-46ca-bf2b-674aa53ab4bf,Preenchimento Folha,TEXT,,10,1,,1,0,PORTAS
+2e84c8ef-2d87-4918-b9d7-54b142b38dca,MOB_tampo_prof,LENGTH,,15,1,,1,0,MOBILIÁRIO DECORATIVO/INDUSTRIAL
+398b6ff2-8578-4447-8fb4-14392c36a4e5,Reforços_espessura,LENGTH,,7,1,,1,0,SHOWROOM
+d3ee54f3-8596-4c3e-8fd7-11c79de2904b,Louças e Metais_acabamento,TEXT,,13,1,,1,0,PLUMBING FIXTURES
+08cfd4f3-af55-4bcf-b114-c23966756a4c,Vao luz largura,LENGTH,,10,1,,1,0,PORTAS
+a2c3d9f6-830a-4d07-9f0a-c002a898e092,septo_acabamento,TEXT,,12,1,,1,0,DRYWALL
+9bad3cf8-8ae7-4c07-9404-303ace984771,Profundidade,LENGTH,,7,1,,1,0,SHOWROOM
+604a66f8-e85c-43af-97f6-d3649a577a03,Nome do edifício_abreviado,TEXT,,8,1,Nome do edifício abreviado - Folha,1,0,DOCUMENTAÇÃO
+f7d275f8-b42d-4c3f-a6c0-2ece66b26a37,Data - emissão inicial,TEXT,,8,1,Emissão inicial,1,0,DOCUMENTAÇÃO
+0469fdf8-ab83-4eed-888f-ffd28b0abdaa,Div.Sanitária_acabamento,TEXT,,13,1,,1,0,PLUMBING FIXTURES
+277041fc-407d-467c-9cba-678a6a68ca7f,TV,YESNO,,9,1,,1,0,ELÉTRICA
+8919b5fc-6773-4f10-bc13-e465b34e3966,EL_no break,NUMBER,,9,1,,1,0,ELÉTRICA
+eb3714fd-5a28-4951-af2c-5986e19c2450,EL_ponto USB,NUMBER,,9,1,,1,0,ELÉTRICA
+468184fe-f1dd-4d38-acb0-ac08cb13eb5c,MAR_porta basculante_larg,LENGTH,,16,1,,1,0,MARCENARIA

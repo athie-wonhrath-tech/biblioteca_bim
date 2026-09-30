@@ -1,0 +1,1792 @@
+﻿[
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 3651,
+    "unique_id": "ddecd777-a6a6-11d3-911d-0000863f27ad-00000e43",
+    "name": "Vista do projeto",
+    "view_type": "ProjectBrowser",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 29193,
+    "unique_id": "f9c6257f-7c50-11d5-93b8-0000863f27ad-00007209",
+    "name": "LV01",
+    "view_type": "Elevation",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 92030,
+    "unique_id": "d40f7836-906f-4f11-a691-eb53b2ba49ec-0001677e",
+    "name": "Navegador do sistema",
+    "view_type": "SystemBrowser",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 204488,
+    "unique_id": "5680fed4-96fb-49e3-a3f3-abd7930c1cac-00031ec8",
+    "name": "00 - apresenta\u00E7\u00E3o prancha A3",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 204490,
+    "unique_id": "5680fed4-96fb-49e3-a3f3-abd7930c1cac-00031eca",
+    "name": "07 - forro demoli\u00E7\u00F5es e remanejamentos",
+    "view_type": "CeilingPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 204491,
+    "unique_id": "5680fed4-96fb-49e3-a3f3-abd7930c1cac-00031ecb",
+    "name": "aw - tabelas",
+    "view_type": "Schedule",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 204499,
+    "unique_id": "5680fed4-96fb-49e3-a3f3-abd7930c1cac-00031ed3",
+    "name": "aw - tabelas sem linhas",
+    "view_type": "Schedule",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 204506,
+    "unique_id": "5680fed4-96fb-49e3-a3f3-abd7930c1cac-00031eda",
+    "name": "PPT - Marcenaria",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 204509,
+    "unique_id": "5680fed4-96fb-49e3-a3f3-abd7930c1cac-00031edd",
+    "name": "07 - forro situa\u00E7\u00E3o final",
+    "view_type": "CeilingPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 204527,
+    "unique_id": "5680fed4-96fb-49e3-a3f3-abd7930c1cac-00031eef",
+    "name": "PESRPECTIVA",
+    "view_type": "ThreeD",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 204529,
+    "unique_id": "5680fed4-96fb-49e3-a3f3-abd7930c1cac-00031ef1",
+    "name": "00  - VIEW DE TRABALHO - PLANTA",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 204537,
+    "unique_id": "5680fed4-96fb-49e3-a3f3-abd7930c1cac-00031ef9",
+    "name": "07 - VIEW DE TRABALHO - FORRO",
+    "view_type": "CeilingPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 204543,
+    "unique_id": "5680fed4-96fb-49e3-a3f3-abd7930c1cac-00031eff",
+    "name": "04 - arquitetura fechamentos final",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 204548,
+    "unique_id": "5680fed4-96fb-49e3-a3f3-abd7930c1cac-00031f04",
+    "name": "06 - piso final",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 204581,
+    "unique_id": "5680fed4-96fb-49e3-a3f3-abd7930c1cac-00031f25",
+    "name": "04 - eleva\u00E7\u00F5es",
+    "view_type": "Section",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 204587,
+    "unique_id": "5680fed4-96fb-49e3-a3f3-abd7930c1cac-00031f2b",
+    "name": "04 - arquitetura - demoli\u00E7\u00F5es e remanejamentos",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 204624,
+    "unique_id": "5680fed4-96fb-49e3-a3f3-abd7930c1cac-00031f50",
+    "name": "PERSPECTIVA SKETCH",
+    "view_type": "ThreeD",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 204626,
+    "unique_id": "5680fed4-96fb-49e3-a3f3-abd7930c1cac-00031f52",
+    "name": "PERSPECTIVA LINHA CINZA",
+    "view_type": "ThreeD",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 204633,
+    "unique_id": "5680fed4-96fb-49e3-a3f3-abd7930c1cac-00031f59",
+    "name": "07 - forro apresenta\u00E7\u00E3o",
+    "view_type": "CeilingPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 204635,
+    "unique_id": "5680fed4-96fb-49e3-a3f3-abd7930c1cac-00031f5b",
+    "name": "aw - tabelas (ME)",
+    "view_type": "Schedule",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 212589,
+    "unique_id": "99a31560-113f-41bb-a53b-8519777203a4-00033e6d",
+    "name": "// lista de vistas",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 212605,
+    "unique_id": "473f0a35-658a-4a2a-b3d8-73661611dbce-00033e7d",
+    "name": "LAYOUT APRESENTA\u00C7\u00C3O",
+    "view_type": "DrawingSheet",
+    "is_template": false,
+    "kind": "prancha",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 212618,
+    "unique_id": "473f0a35-658a-4a2a-b3d8-73661611dbce-00033e8a",
+    "name": "LAYOUT BASE",
+    "view_type": "DrawingSheet",
+    "is_template": false,
+    "kind": "prancha",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 212624,
+    "unique_id": "473f0a35-658a-4a2a-b3d8-73661611dbce-00033e90",
+    "name": "SETORIZA\u00C7\u00C3O",
+    "view_type": "DrawingSheet",
+    "is_template": false,
+    "kind": "prancha",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 212628,
+    "unique_id": "473f0a35-658a-4a2a-b3d8-73661611dbce-00033e94",
+    "name": "SALA T\u00C9CNICA",
+    "view_type": "DrawingSheet",
+    "is_template": false,
+    "kind": "prancha",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 212632,
+    "unique_id": "473f0a35-658a-4a2a-b3d8-73661611dbce-00033e98",
+    "name": "MOBILI\u00C1RIO FINAL",
+    "view_type": "DrawingSheet",
+    "is_template": false,
+    "kind": "prancha",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 212636,
+    "unique_id": "473f0a35-658a-4a2a-b3d8-73661611dbce-00033e9c",
+    "name": "ARQUITETURA DEMOLI\u00C7\u00D5ES E RETIRADAS",
+    "view_type": "DrawingSheet",
+    "is_template": false,
+    "kind": "prancha",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 212640,
+    "unique_id": "473f0a35-658a-4a2a-b3d8-73661611dbce-00033ea0",
+    "name": "ARQUITETURA FECHAMENTOS E ACABAMENTOS",
+    "view_type": "DrawingSheet",
+    "is_template": false,
+    "kind": "prancha",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 212644,
+    "unique_id": "473f0a35-658a-4a2a-b3d8-73661611dbce-00033ea4",
+    "name": "ARQUITETURA CORTES",
+    "view_type": "DrawingSheet",
+    "is_template": false,
+    "kind": "prancha",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 212648,
+    "unique_id": "473f0a35-658a-4a2a-b3d8-73661611dbce-00033ea8",
+    "name": "AMPLIA\u00C7\u00D5ES",
+    "view_type": "DrawingSheet",
+    "is_template": false,
+    "kind": "prancha",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 212652,
+    "unique_id": "473f0a35-658a-4a2a-b3d8-73661611dbce-00033eac",
+    "name": "DETALHES CONSTRUTIVOS",
+    "view_type": "DrawingSheet",
+    "is_template": false,
+    "kind": "prancha",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 212656,
+    "unique_id": "473f0a35-658a-4a2a-b3d8-73661611dbce-00033eb0",
+    "name": "INDICA\u00C7\u00C3O DE PONTOS",
+    "view_type": "DrawingSheet",
+    "is_template": false,
+    "kind": "prancha",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 212660,
+    "unique_id": "473f0a35-658a-4a2a-b3d8-73661611dbce-00033eb4",
+    "name": "PISO FINAL",
+    "view_type": "DrawingSheet",
+    "is_template": false,
+    "kind": "prancha",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 212664,
+    "unique_id": "473f0a35-658a-4a2a-b3d8-73661611dbce-00033eb8",
+    "name": "FORRO DEMOLI\u00C7\u00D5ES E RETIRADAS",
+    "view_type": "DrawingSheet",
+    "is_template": false,
+    "kind": "prancha",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 212668,
+    "unique_id": "473f0a35-658a-4a2a-b3d8-73661611dbce-00033ebc",
+    "name": "FORRO FINAL",
+    "view_type": "DrawingSheet",
+    "is_template": false,
+    "kind": "prancha",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 212672,
+    "unique_id": "473f0a35-658a-4a2a-b3d8-73661611dbce-00033ec0",
+    "name": "FORRO BASE",
+    "view_type": "DrawingSheet",
+    "is_template": false,
+    "kind": "prancha",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 212676,
+    "unique_id": "473f0a35-658a-4a2a-b3d8-73661611dbce-00033ec4",
+    "name": "MARCENARIA",
+    "view_type": "DrawingSheet",
+    "is_template": false,
+    "kind": "prancha",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1127935,
+    "unique_id": "3705a7ca-4259-423d-8e9f-4dcfc40df0dc-001135ff",
+    "name": "00 LISTA DE FOLHAS DO PROJETO",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1127944,
+    "unique_id": "3705a7ca-4259-423d-8e9f-4dcfc40df0dc-00113608",
+    "name": "02 REUNI\u00C3O - SALAS",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1127977,
+    "unique_id": "3705a7ca-4259-423d-8e9f-4dcfc40df0dc-00113629",
+    "name": "06 PISOS",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1127992,
+    "unique_id": "3705a7ca-4259-423d-8e9f-4dcfc40df0dc-00113638",
+    "name": "07 LUMIN\u00C1RIAS",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1128014,
+    "unique_id": "3705a7ca-4259-423d-8e9f-4dcfc40df0dc-0011364e",
+    "name": "07 SANCAS",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1128038,
+    "unique_id": "3705a7ca-4259-423d-8e9f-4dcfc40df0dc-00113666",
+    "name": "04  VEDA\u00C7\u00D5ES",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1128052,
+    "unique_id": "3705a7ca-4259-423d-8e9f-4dcfc40df0dc-00113674",
+    "name": "04 ACABAMENTOS",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1128080,
+    "unique_id": "3705a7ca-4259-423d-8e9f-4dcfc40df0dc-00113690",
+    "name": "04 LOU\u00C7AS E METAIS",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1128094,
+    "unique_id": "3705a7ca-4259-423d-8e9f-4dcfc40df0dc-0011369e",
+    "name": "04 PEDRAS",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1128120,
+    "unique_id": "3705a7ca-4259-423d-8e9f-4dcfc40df0dc-001136b8",
+    "name": "03 MOBILI\u00C1RIO INDUSTRIAL",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1128127,
+    "unique_id": "3705a7ca-4259-423d-8e9f-4dcfc40df0dc-001136bf",
+    "name": "03 ELETRODOM\u00C9STICOS, EQUIPAMENTOS E MULTIM\u00CDDIA",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1128141,
+    "unique_id": "3705a7ca-4259-423d-8e9f-4dcfc40df0dc-001136cd",
+    "name": "03 MARCENARIAS",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1128155,
+    "unique_id": "3705a7ca-4259-423d-8e9f-4dcfc40df0dc-001136db",
+    "name": "02 TABELA DE AMBIENTES",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1128162,
+    "unique_id": "3705a7ca-4259-423d-8e9f-4dcfc40df0dc-001136e2",
+    "name": "04 PERSIANAS",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1128171,
+    "unique_id": "3705a7ca-4259-423d-8e9f-4dcfc40df0dc-001136eb",
+    "name": "02 HEADCOUNT POSTO DE TRABALHO",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1128182,
+    "unique_id": "3705a7ca-4259-423d-8e9f-4dcfc40df0dc-001136f6",
+    "name": "02 SETORIZA\u00C7\u00C3O",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1128193,
+    "unique_id": "3705a7ca-4259-423d-8e9f-4dcfc40df0dc-00113701",
+    "name": "04 REFOR\u00C7OS",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1128262,
+    "unique_id": "3705a7ca-4259-423d-8e9f-4dcfc40df0dc-00113746",
+    "name": "04 PORTAS",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1128398,
+    "unique_id": "3705a7ca-4259-423d-8e9f-4dcfc40df0dc-001137ce",
+    "name": "06 RODAP\u00C9",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1128417,
+    "unique_id": "3705a7ca-4259-423d-8e9f-4dcfc40df0dc-001137e1",
+    "name": "03 MOBILI\u00C1RIOS (com imagens)",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1149251,
+    "unique_id": "0f8b36a5-132f-452e-8e66-93d7240395ff-00118943",
+    "name": "00  - VIEW DE TRABALHO - ROOMS",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1194761,
+    "unique_id": "9f3e97fa-d575-48f0-accf-0840c986093f-00123b09",
+    "name": "07 FORROS",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1195626,
+    "unique_id": "56c98b6d-ca2d-482b-b371-3e4c31951436-00123e6a",
+    "name": "07 - forro situa\u00E7\u00E3o final amp 1/25",
+    "view_type": "CeilingPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1195633,
+    "unique_id": "56c98b6d-ca2d-482b-b371-3e4c31951436-00123e71",
+    "name": "06 - piso demoli\u00E7\u00F5es e remanejamentos",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1195635,
+    "unique_id": "56c98b6d-ca2d-482b-b371-3e4c31951436-00123e73",
+    "name": "03 - mobili\u00E1rio",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1195637,
+    "unique_id": "56c98b6d-ca2d-482b-b371-3e4c31951436-00123e75",
+    "name": "05 - indica\u00E7\u00E3o de pontos",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1195640,
+    "unique_id": "56c98b6d-ca2d-482b-b371-3e4c31951436-00123e78",
+    "name": "04 - arquitetura 1/25 - cortes e vistas (amp. salas)",
+    "view_type": "Section",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1195642,
+    "unique_id": "56c98b6d-ca2d-482b-b371-3e4c31951436-00123e7a",
+    "name": "04 - arquitetura 1/50 cortes",
+    "view_type": "Section",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1195644,
+    "unique_id": "56c98b6d-ca2d-482b-b371-3e4c31951436-00123e7c",
+    "name": "04 - arquitetura 1/50 eleva\u00E7\u00F5es",
+    "view_type": "Section",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1195924,
+    "unique_id": "56c98b6d-ca2d-482b-b371-3e4c31951436-00123f94",
+    "name": "02 - exporta\u00E7\u00E3o DWF/ projetistas",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1195972,
+    "unique_id": "56c98b6d-ca2d-482b-b371-3e4c31951436-00123fc4",
+    "name": "04 - arquitetura 1/25 - plantas (amp. salas)",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1196008,
+    "unique_id": "56c98b6d-ca2d-482b-b371-3e4c31951436-00123fe8",
+    "name": "02 - amp sala t\u00E9cnica",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1196017,
+    "unique_id": "56c98b6d-ca2d-482b-b371-3e4c31951436-00123ff1",
+    "name": "00 - detalhes 1/50 - cortes (amp salas)",
+    "view_type": "Section",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1196030,
+    "unique_id": "56c98b6d-ca2d-482b-b371-3e4c31951436-00123ffe",
+    "name": "00 - detalhes 1/20 - plantas (amp. salas)",
+    "view_type": "Section",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1196032,
+    "unique_id": "56c98b6d-ca2d-482b-b371-3e4c31951436-00124000",
+    "name": "04 - vistas internas 1/50",
+    "view_type": "Section",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1196040,
+    "unique_id": "56c98b6d-ca2d-482b-b371-3e4c31951436-00124008",
+    "name": "00 - detalhes 1/20 - cortes (amp. salas)",
+    "view_type": "Section",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1196058,
+    "unique_id": "56c98b6d-ca2d-482b-b371-3e4c31951436-0012401a",
+    "name": "04 - eleva\u00E7\u00F5es de divis\u00F3rias",
+    "view_type": "Elevation",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1196085,
+    "unique_id": "56c98b6d-ca2d-482b-b371-3e4c31951436-00124035",
+    "name": "04 - amplia\u00E7\u00E3o sanit 1/20",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1196087,
+    "unique_id": "56c98b6d-ca2d-482b-b371-3e4c31951436-00124037",
+    "name": "04 - vistas internas 1/25",
+    "view_type": "Section",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1196088,
+    "unique_id": "56c98b6d-ca2d-482b-b371-3e4c31951436-00124038",
+    "name": "04 - elev. \u00E1reas molhadas",
+    "view_type": "Section",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1197653,
+    "unique_id": "56c98b6d-ca2d-482b-b371-3e4c31951436-00124655",
+    "name": "PPT - ------------------------- POWER POINT --------------------------- PPT",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1197659,
+    "unique_id": "56c98b6d-ca2d-482b-b371-3e4c31951436-0012465b",
+    "name": "00   ----------------------- TRABALHO ----------------------- 00",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1197663,
+    "unique_id": "56c98b6d-ca2d-482b-b371-3e4c31951436-0012465f",
+    "name": "02 - ------------------------- LAYOUT ------------------------- 02",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1197665,
+    "unique_id": "56c98b6d-ca2d-482b-b371-3e4c31951436-00124661",
+    "name": "03 - ----------------------- MOBILI\u00C1RIO ----------------------- 03",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1197667,
+    "unique_id": "56c98b6d-ca2d-482b-b371-3e4c31951436-00124663",
+    "name": "04 - ---------------------- ARQUITETURA ---------------------- 04",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1197669,
+    "unique_id": "56c98b6d-ca2d-482b-b371-3e4c31951436-00124665",
+    "name": "05 - -------------------------- PONTOS -------------------------- 05",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1197671,
+    "unique_id": "56c98b6d-ca2d-482b-b371-3e4c31951436-00124667",
+    "name": "06 - ---------------------------- PISO ---------------------------- 06",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1197673,
+    "unique_id": "56c98b6d-ca2d-482b-b371-3e4c31951436-00124669",
+    "name": "07 - -------------------------- FORRO --------------------------- 07",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1197677,
+    "unique_id": "56c98b6d-ca2d-482b-b371-3e4c31951436-0012466d",
+    "name": "09 - ------------------------- TABELAS --------------------------- 09",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1197679,
+    "unique_id": "56c98b6d-ca2d-482b-b371-3e4c31951436-0012466f",
+    "name": "PER - --------------------- PERSPECTIVA ----------------------- PER",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1474916,
+    "unique_id": "cdd412ca-16cb-4eb2-bc8d-4230ac1beaf8-00168164",
+    "name": ".IG - NOMENCLATURA",
+    "view_type": "Legend",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1474979,
+    "unique_id": "cdd412ca-16cb-4eb2-bc8d-4230ac1beaf8-001681a3",
+    "name": ".IG - NOTAS GERAIS",
+    "view_type": "Legend",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1475010,
+    "unique_id": "cdd412ca-16cb-4eb2-bc8d-4230ac1beaf8-001681c2",
+    "name": ".IG - SIMBOLOGIA",
+    "view_type": "Legend",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1475730,
+    "unique_id": "cdd412ca-16cb-4eb2-bc8d-4230ac1beaf8-00168492",
+    "name": "00 - DEMOLI\u00C7\u00C3O/ REMANEJAMENTO",
+    "view_type": "Legend",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1475780,
+    "unique_id": "cdd412ca-16cb-4eb2-bc8d-4230ac1beaf8-001684c4",
+    "name": "00 - NOVOS / REMANEJADOS",
+    "view_type": "Legend",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1506740,
+    "unique_id": "cdd412ca-16cb-4eb2-bc8d-4230ac1beaf8-0016fdb4",
+    "name": "02.XX - DADOS",
+    "view_type": "Legend",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1506756,
+    "unique_id": "cdd412ca-16cb-4eb2-bc8d-4230ac1beaf8-0016fdc4",
+    "name": "04 - FECHAMENTOS",
+    "view_type": "Legend",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1507324,
+    "unique_id": "cdd412ca-16cb-4eb2-bc8d-4230ac1beaf8-0016fffc",
+    "name": "04 - IND. PTOS - HIDRAULICA",
+    "view_type": "Legend",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1507401,
+    "unique_id": "cdd412ca-16cb-4eb2-bc8d-4230ac1beaf8-00170049",
+    "name": "05 - DETALHE DE ALTURA DE PONTOS",
+    "view_type": "Legend",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1507425,
+    "unique_id": "cdd412ca-16cb-4eb2-bc8d-4230ac1beaf8-00170061",
+    "name": "05 - IND. PTOS - AR CONDICIONADO",
+    "view_type": "Legend",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1507464,
+    "unique_id": "cdd412ca-16cb-4eb2-bc8d-4230ac1beaf8-00170088",
+    "name": "05 - IND. PTOS - CONTROLE DE ACESSO E CFTV",
+    "view_type": "Legend",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1526077,
+    "unique_id": "cdd412ca-16cb-4eb2-bc8d-4230ac1beaf8-0017493d",
+    "name": "05 - IND. PTOS - KIT DE EL\u00C9TRICA, DADOS E TELEFONIA",
+    "view_type": "Legend",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1528231,
+    "unique_id": "cdd412ca-16cb-4eb2-bc8d-4230ac1beaf8-001751a7",
+    "name": "06 - LEGENDA PISOS",
+    "view_type": "Legend",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1528238,
+    "unique_id": "cdd412ca-16cb-4eb2-bc8d-4230ac1beaf8-001751ae",
+    "name": "07 - LEGENDA DE DETEC\u00C7\u00C3O E COMBATE A INC\u00CANDIO",
+    "view_type": "Legend",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1736320,
+    "unique_id": "f4f8d8a5-6ca0-4561-bc10-1a5205edb343-001a7e80",
+    "name": "PPT - Divis\u00F3rias industriais",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1738012,
+    "unique_id": "ed13f8cc-100e-4425-b433-dd5db0691785-001a851c",
+    "name": "PPT - Drywall \u002B veda\u00E7\u00F5es",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1739355,
+    "unique_id": "ded3afd1-d728-4912-b9f5-e8ac22ab82be-001a8a5b",
+    "name": "PPT - Pedras",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1757607,
+    "unique_id": "34eb360c-e999-4da6-97c8-96acab2a0b5e-001ad1a7",
+    "name": "03 - mobili\u00E1rio com cor",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1758651,
+    "unique_id": "5cbabc4d-0a43-4c89-b1cb-ab2d12206c9d-001ad5bb",
+    "name": "02 \u00C1REA DE CARPETE",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1798978,
+    "unique_id": "c03f1b23-b98b-4326-9514-190382064e4f-001b7342",
+    "name": "EXPORTA\u00C7\u00C3O DWG / DWF",
+    "view_type": "DrawingSheet",
+    "is_template": false,
+    "kind": "prancha",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1827104,
+    "unique_id": "91280b0d-492e-4389-a00c-a5bf65c8de95-001be120",
+    "name": "07 AL\u00C7AP\u00C3O",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1828207,
+    "unique_id": "61386645-2c6f-4adc-ab03-f4874b84834c-001be56f",
+    "name": "04 DIVIS\u00D3RIAS INDUSTRIAIS",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1828449,
+    "unique_id": "40017879-72fe-4b4d-af33-8dd2f3b5dc32-001be661",
+    "name": "03 MOBILI\u00C1RIOS GERAL",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1828462,
+    "unique_id": "d27335d7-9ec3-423d-b3f9-ce6443684eb1-001be66e",
+    "name": "04 GUARDA CORPO",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 1905103,
+    "unique_id": "b523a070-4a0c-40e1-be51-ecc4ff45b345-001d11cf",
+    "name": "Folha de abertura de projeto",
+    "view_type": "DrawingSheet",
+    "is_template": false,
+    "kind": "prancha",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 2334497,
+    "unique_id": "a810696d-be15-433a-8ffe-51f26c7bb88d-00239f21",
+    "name": "00 - detalhes 1/75 - cortes (amp salas)",
+    "view_type": "Section",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 2334504,
+    "unique_id": "a810696d-be15-433a-8ffe-51f26c7bb88d-00239f28",
+    "name": "00 - apresenta\u00E7\u00E3o linha cinza",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 2334787,
+    "unique_id": "3458dd48-cc18-40bd-b18c-86093383678d-0023a043",
+    "name": "PPT - Mobili\u00E1rio industrial",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 2334789,
+    "unique_id": "3458dd48-cc18-40bd-b18c-86093383678d-0023a045",
+    "name": "PPT - Mobili\u00E1rio decorativo",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 2394319,
+    "unique_id": "b25d423a-4470-4eac-b3cd-bd376ec0bed2-002488cf",
+    "name": "02.XX - SETORIZA\u00C7\u00C3O",
+    "view_type": "Legend",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 2406788,
+    "unique_id": "df548ad3-ae64-46bb-b875-53fadf143f56-0024b984",
+    "name": "02 - setoriza\u00E7\u00E3o (layout / cadeiras)",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 2406790,
+    "unique_id": "df548ad3-ae64-46bb-b875-53fadf143f56-0024b986",
+    "name": "02 - \u00E1reas",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 2516948,
+    "unique_id": "0b73eefa-5538-4dbf-83e9-e96f82c0af21-002667d4",
+    "name": ".IG - NOTAS MOBILI\u00C1RIO",
+    "view_type": "Legend",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 2516961,
+    "unique_id": "0b73eefa-5538-4dbf-83e9-e96f82c0af21-002667e1",
+    "name": ".IG - NOTAS DESMONTAGENS E RETIRADAS",
+    "view_type": "Legend",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 2516974,
+    "unique_id": "0b73eefa-5538-4dbf-83e9-e96f82c0af21-002667ee",
+    "name": ".IG - NOTAS CIVIL",
+    "view_type": "Legend",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 2516987,
+    "unique_id": "0b73eefa-5538-4dbf-83e9-e96f82c0af21-002667fb",
+    "name": ".IG - NOTAS ACABAMENTOS",
+    "view_type": "Legend",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 2517000,
+    "unique_id": "0b73eefa-5538-4dbf-83e9-e96f82c0af21-00266808",
+    "name": ".IG - NOTAS PONTOS",
+    "view_type": "Legend",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 2517013,
+    "unique_id": "0b73eefa-5538-4dbf-83e9-e96f82c0af21-00266815",
+    "name": ".IG - NOTAS PISO",
+    "view_type": "Legend",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 2517026,
+    "unique_id": "0b73eefa-5538-4dbf-83e9-e96f82c0af21-00266822",
+    "name": ".IG - NOTAS FORRO",
+    "view_type": "Legend",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 2517090,
+    "unique_id": "439ceaa9-a65b-4e03-986a-faa42dc3ed23-00266862",
+    "name": "PPT - Revestimentos de Parede",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 2517092,
+    "unique_id": "439ceaa9-a65b-4e03-986a-faa42dc3ed23-00266864",
+    "name": "PPT - Rodap\u00E9s",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 2517481,
+    "unique_id": "aa0ecaa3-fa23-40f4-bf19-5b86eee2444b-002669e9",
+    "name": "03 MESA DE REUNI\u00C3O",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 2520177,
+    "unique_id": "12336a92-b0b4-4172-8214-8ab1e659883b-00267471",
+    "name": "05 - IND. PTOS - LEGENDA PONTOS LEED",
+    "view_type": "Legend",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 2536031,
+    "unique_id": "d1390a56-6839-4e1a-8f61-9fb5333394dc-0026b25f",
+    "name": ".IG - NOTAS ACESSIBILIDADE",
+    "view_type": "Legend",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 2579773,
+    "unique_id": "39991a4f-5478-420d-a0b3-270a82806abf-00275d3d",
+    "name": ".IG - NOTAS AC\u00DASTICA",
+    "view_type": "Legend",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 2579793,
+    "unique_id": "f3808b8f-d85f-4398-b07e-90bef2eca266-00275d51",
+    "name": "06 - entrepiso",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 2579797,
+    "unique_id": "f3808b8f-d85f-4398-b07e-90bef2eca266-00275d55",
+    "name": "07 - planta de entreforro",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 2581753,
+    "unique_id": "36690cb1-def2-4788-be75-50e5a085c8d2-002764f9",
+    "name": ".IG - NOTAS MARCENARIA/SERRALHERIA",
+    "view_type": "Legend",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 2583883,
+    "unique_id": "31d171da-42bc-4a7a-91a4-bbdfb00d7a8a-00276d4b",
+    "name": "04 DIVIS\u00D3RIAS SANIT\u00C1RIAS",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 2584545,
+    "unique_id": "31d171da-42bc-4a7a-91a4-bbdfb00d7a8a-00276fe1",
+    "name": "03 - MOBILI\u00C1RIO",
+    "view_type": "Legend",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 2933429,
+    "unique_id": "f51d3a6e-3239-4832-9edd-7bd9f2aed16d-002cc2b5",
+    "name": "PPT - Assentos (hierarquia)",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 3291919,
+    "unique_id": "36a9b172-a76a-4638-9384-cca7d51402e9-00323b0f",
+    "name": "02 \u00C1REA DE INTERVEN\u00C7\u00C3O",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 3291930,
+    "unique_id": "36a9b172-a76a-4638-9384-cca7d51402e9-00323b1a",
+    "name": "aw - tabelas \u00E1reas",
+    "view_type": "Schedule",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 3293788,
+    "unique_id": "3cc7a22c-d130-4983-b283-a0e363a524ff-0032425c",
+    "name": "02 HEADCOUNT TOTAL",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 3663117,
+    "unique_id": "70bebf06-5ccd-4045-8cc1-008267392555-0037e50d",
+    "name": "04 ESPELHOS E LOUSAS",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 3671379,
+    "unique_id": "93983571-9575-407b-8a3b-9b6a55964601-00380553",
+    "name": "06 SOLEIRAS E BAGUETES",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 3685040,
+    "unique_id": "1449ecdd-3d27-40d7-b956-28599b3f76e0-00383ab0",
+    "name": "SHOWROOM",
+    "view_type": "FloorPlan",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 3695221,
+    "unique_id": "fbf29dbf-af68-45b8-90df-bcdb159187b2-00386275",
+    "name": "Tabelas",
+    "view_type": "DrawingSheet",
+    "is_template": false,
+    "kind": "prancha",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 3720285,
+    "unique_id": "36d25a8d-846a-487b-a116-2b2673641e0e-0038c45d",
+    "name": "AA\u00BA FORRO",
+    "view_type": "CeilingPlan",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 4079455,
+    "unique_id": "aef3a98b-56f2-4ac1-9966-dd39db304d8a-003e3f5f",
+    "name": "03 MOBILI\u00C1RIO DECORATIVO",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 4139815,
+    "unique_id": "1c86e50a-0d93-4fa4-a013-03dff46deefa-003f2b27",
+    "name": "04 DIVIS\u00D3RIAS INDUSTRIAIS Internal",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 4294231,
+    "unique_id": "beddb854-ac32-44e7-848c-5035d1ef585c-00418657",
+    "name": "04 PORTAS PRONTAS",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 8640272,
+    "unique_id": "7c982134-0628-44cf-9294-c4e1cd9ac7cc-0083d710",
+    "name": "05 PONTOS",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 8957816,
+    "unique_id": "21aefcab-a99a-4f74-b50e-b4ef02b54e25-0088af78",
+    "name": "PPT - Forro",
+    "view_type": "CeilingPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 10768045,
+    "unique_id": "9ffe5218-667a-4522-97a1-a21cab3d38c9-00a44ead",
+    "name": "PPT - Paisagismo",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 13228574,
+    "unique_id": "3bc3a34f-3456-4ac1-a0bc-b080f2872792-00c9da1e",
+    "name": "LEGENDA TAG FECHAMENTOS E ACABAMENTOS",
+    "view_type": "Legend",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 13579615,
+    "unique_id": "b15b4697-54f0-450f-8060-425432951137-00cf355f",
+    "name": "{3D - joyce.campos}",
+    "view_type": "ThreeD",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 13693903,
+    "unique_id": "881743da-d1a7-4f35-ad98-2d1b9df0a380-00d0f3cf",
+    "name": "SHOWROOM PORTAS",
+    "view_type": "FloorPlan",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 13695997,
+    "unique_id": "881743da-d1a7-4f35-ad98-2d1b9df0a380-00d0fbfd",
+    "name": "SHOWROOM CAVALETTI",
+    "view_type": "FloorPlan",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 13697227,
+    "unique_id": "f3e2cb93-7efa-435e-9b2c-58a683bfd9cb-00d100cb",
+    "name": "SHOWROOM MARCENARIAS",
+    "view_type": "FloorPlan",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 15614926,
+    "unique_id": "f5824af3-d324-4507-b5ee-08797aad1d67-00ee43ce",
+    "name": "SHOWROOM MOB. INDUSTRIAL",
+    "view_type": "FloorPlan",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 15616245,
+    "unique_id": "f5824af3-d324-4507-b5ee-08797aad1d67-00ee48f5",
+    "name": "SHOWROOM LOU\u00C7AS E METAIS",
+    "view_type": "FloorPlan",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 16967826,
+    "unique_id": "1293d41b-f8fd-441f-bd10-766ffe49ec5b-0102e892",
+    "name": "Section 1",
+    "view_type": "Section",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 17281375,
+    "unique_id": "323592ab-a48e-42a8-a4d6-9442829c093b-0107b15f",
+    "name": "{3D}",
+    "view_type": "ThreeD",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 17311685,
+    "unique_id": "93b3b09a-9e9f-48b6-b76f-84ec71df1343-010827c5",
+    "name": "\u003CRevision Schedule\u003E",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 17311690,
+    "unique_id": "93b3b09a-9e9f-48b6-b76f-84ec71df1343-010827ca",
+    "name": "\u003CRevision Schedule\u003E 2",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 17311695,
+    "unique_id": "93b3b09a-9e9f-48b6-b76f-84ec71df1343-010827cf",
+    "name": "\u003CRevision Schedule\u003E 3",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 17311700,
+    "unique_id": "93b3b09a-9e9f-48b6-b76f-84ec71df1343-010827d4",
+    "name": "\u003CRevision Schedule\u003E 4",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 17311705,
+    "unique_id": "93b3b09a-9e9f-48b6-b76f-84ec71df1343-010827d9",
+    "name": "\u003CRevision Schedule\u003E 5",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 17311710,
+    "unique_id": "93b3b09a-9e9f-48b6-b76f-84ec71df1343-010827de",
+    "name": "\u003CRevision Schedule\u003E 6",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 17311715,
+    "unique_id": "93b3b09a-9e9f-48b6-b76f-84ec71df1343-010827e3",
+    "name": "\u003CRevision Schedule\u003E 7",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 17311720,
+    "unique_id": "93b3b09a-9e9f-48b6-b76f-84ec71df1343-010827e8",
+    "name": "\u003CRevision Schedule\u003E 8",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 17311725,
+    "unique_id": "93b3b09a-9e9f-48b6-b76f-84ec71df1343-010827ed",
+    "name": "\u003CRevision Schedule\u003E 9",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 17311730,
+    "unique_id": "93b3b09a-9e9f-48b6-b76f-84ec71df1343-010827f2",
+    "name": "\u003CRevision Schedule\u003E 10",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 17311735,
+    "unique_id": "93b3b09a-9e9f-48b6-b76f-84ec71df1343-010827f7",
+    "name": "\u003CRevision Schedule\u003E 11",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 17311740,
+    "unique_id": "93b3b09a-9e9f-48b6-b76f-84ec71df1343-010827fc",
+    "name": "\u003CRevision Schedule\u003E 12",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 17311745,
+    "unique_id": "93b3b09a-9e9f-48b6-b76f-84ec71df1343-01082801",
+    "name": "\u003CRevision Schedule\u003E 13",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 17311750,
+    "unique_id": "93b3b09a-9e9f-48b6-b76f-84ec71df1343-01082806",
+    "name": "\u003CRevision Schedule\u003E 14",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 17311755,
+    "unique_id": "93b3b09a-9e9f-48b6-b76f-84ec71df1343-0108280b",
+    "name": "\u003CRevision Schedule\u003E 15",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 17311760,
+    "unique_id": "93b3b09a-9e9f-48b6-b76f-84ec71df1343-01082810",
+    "name": "\u003CRevision Schedule\u003E 16",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 17311765,
+    "unique_id": "93b3b09a-9e9f-48b6-b76f-84ec71df1343-01082815",
+    "name": "\u003CRevision Schedule\u003E 17",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "SHOWROOM_Novo BIM_V2026.rvt",
+    "id": 17311770,
+    "unique_id": "93b3b09a-9e9f-48b6-b76f-84ec71df1343-0108281a",
+    "name": "\u003CRevision Schedule\u003E 18",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  }
+]

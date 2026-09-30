@@ -1,0 +1,98 @@
+{
+  "root": "C:\\Users\\Eduardo.Capeto\\OneDrive - ATHIE WOHNRATH ASSOCIADOS S C LTDA\\0_Clientes\\000_BIM Biblioteca\\_NOVO SHOWROOM 2026",
+  "scanned_at_utc": "2026-09-24T16:30:33.379429+00:00",
+  "files": [
+    {
+      "FullName": "C:\\Users\\Eduardo.Capeto\\OneDrive - ATHIE WOHNRATH ASSOCIADOS S C LTDA\\0_Clientes\\000_BIM Biblioteca\\_NOVO SHOWROOM 2026\\SHOWROOM_Novo BIM_V2026.rvt",
+      "Name": "SHOWROOM_Novo BIM_V2026.rvt",
+      "Extension": ".rvt",
+      "Length": 1512427520,
+      "PSIsContainer": false,
+      "Attributes": 524320,
+      "CreationTimeUtc": "2026-09-24T16:25:36.5584024Z",
+      "LastWriteTimeUtc": "2026-05-08T18:57:53.8506948Z",
+      "LastAccessTimeUtc": "2026-09-24T16:29:43.2819009Z",
+      "relative_path": "SHOWROOM_Novo BIM_V2026.rvt",
+      "sha256": "3531b4fd341cf0a8dd2ef681848512aa6788c5b20ad69f98bc77ce4057fff75e",
+      "copy_sha256": "3531b4fd341cf0a8dd2ef681848512aa6788c5b20ad69f98bc77ce4057fff75e",
+      "copy_verified": true,
+      "source_size_unchanged": true,
+      "source_mtime_unchanged": true,
+      "copy_path": "C:\\Users\\Eduardo.Capeto\\Documents\\Codex\\2026-09-24\\inventario-biblioteca-bim-2026\\work\\sample_copy\\SHOWROOM_Novo BIM_V2026.rvt",
+      "source_final_sha256": "3531b4fd341cf0a8dd2ef681848512aa6788c5b20ad69f98bc77ce4057fff75e",
+      "source_content_verified_after_inspection": true,
+      "source_final_mtime_utc": "2026-05-08T18:57:53.850695+00:00"
+    },
+    {
+      "FullName": "C:\\Users\\Eduardo.Capeto\\OneDrive - ATHIE WOHNRATH ASSOCIADOS S C LTDA\\0_Clientes\\000_BIM Biblioteca\\_NOVO SHOWROOM 2026\\DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+      "Name": "AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+      "Extension": ".rvt",
+      "Length": 21708800,
+      "PSIsContainer": false,
+      "Attributes": 524320,
+      "CreationTimeUtc": "2026-09-24T16:29:43.4052291Z",
+      "LastWriteTimeUtc": "2026-04-15T12:08:14.9107544Z",
+      "LastAccessTimeUtc": "2026-09-24T16:29:46.6287188Z",
+      "relative_path": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+      "sha256": "3b562af40098b8985fb6748c37fe4da0c23280eafd7b830f1237e4d01d4aa9af",
+      "copy_sha256": "3b562af40098b8985fb6748c37fe4da0c23280eafd7b830f1237e4d01d4aa9af",
+      "copy_verified": true,
+      "source_size_unchanged": true,
+      "source_mtime_unchanged": true,
+      "copy_path": "C:\\Users\\Eduardo.Capeto\\Documents\\Codex\\2026-09-24\\inventario-biblioteca-bim-2026\\work\\sample_copy\\DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+      "source_final_sha256": "3b562af40098b8985fb6748c37fe4da0c23280eafd7b830f1237e4d01d4aa9af",
+      "source_content_verified_after_inspection": true,
+      "source_final_mtime_utc": "2026-04-15T12:08:14.910754+00:00"
+    },
+    {
+      "FullName": "C:\\Users\\Eduardo.Capeto\\OneDrive - ATHIE WOHNRATH ASSOCIADOS S C LTDA\\0_Clientes\\000_BIM Biblioteca\\_NOVO SHOWROOM 2026\\parâmetros compartilhados_V2026\\BIM AW.txt",
+      "Name": "BIM AW.txt",
+      "Extension": ".txt",
+      "Length": 34754,
+      "PSIsContainer": false,
+      "Attributes": 525344,
+      "CreationTimeUtc": "2026-09-24T16:29:46.7476444Z",
+      "LastWriteTimeUtc": "2024-08-23T18:29:05.721934Z",
+      "LastAccessTimeUtc": "2026-09-24T16:29:47.3967168Z",
+      "relative_path": "parâmetros compartilhados_V2026\\BIM AW.txt",
+      "sha256": "d84965d1f65c4be1857d30d456442d13af8b379abfb912ed63ecea81c1aac831",
+      "copy_sha256": "d84965d1f65c4be1857d30d456442d13af8b379abfb912ed63ecea81c1aac831",
+      "copy_verified": true,
+      "source_size_unchanged": true,
+      "source_mtime_unchanged": true,
+      "copy_path": "C:\\Users\\Eduardo.Capeto\\Documents\\Codex\\2026-09-24\\inventario-biblioteca-bim-2026\\work\\sample_copy\\parâmetros compartilhados_V2026\\BIM AW.txt",
+      "source_final_sha256": "d84965d1f65c4be1857d30d456442d13af8b379abfb912ed63ecea81c1aac831",
+      "source_content_verified_after_inspection": true,
+      "source_final_mtime_utc": "2024-08-23T18:29:05.721934+00:00"
+    }
+  ],
+  "directories": [
+    {
+      "FullName": "C:\\Users\\Eduardo.Capeto\\OneDrive - ATHIE WOHNRATH ASSOCIADOS S C LTDA\\0_Clientes\\000_BIM Biblioteca\\_NOVO SHOWROOM 2026\\DETALHES 2D",
+      "Length": null,
+      "PSIsContainer": true,
+      "Attributes": 525361,
+      "CreationTimeUtc": "2026-09-24T16:29:43.3769216Z",
+      "LastWriteTimeUtc": "2026-09-24T16:29:45.5343734Z"
+    },
+    {
+      "FullName": "C:\\Users\\Eduardo.Capeto\\OneDrive - ATHIE WOHNRATH ASSOCIADOS S C LTDA\\0_Clientes\\000_BIM Biblioteca\\_NOVO SHOWROOM 2026\\parâmetros compartilhados_V2026",
+      "Length": null,
+      "PSIsContainer": true,
+      "Attributes": 525361,
+      "CreationTimeUtc": "2026-09-24T16:29:46.7100774Z",
+      "LastWriteTimeUtc": "2026-09-24T16:29:48.9620413Z"
+    }
+  ],
+  "summary": {
+    "file_count": 3,
+    "subdirectories": 2,
+    "bytes": 1534171074,
+    "extensions": {
+      ".rvt": 2,
+      ".txt": 1
+    },
+    "exact_duplicate_groups": 0,
+    "unique_sha256": 3
+  }
+}

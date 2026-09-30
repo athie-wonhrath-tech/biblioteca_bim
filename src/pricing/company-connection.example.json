@@ -1,0 +1,12 @@
+{
+  "enabled": false,
+  "serverEnvironment": {
+    "endpointVariable": "COMPANY_PRICES_API_URL",
+    "credentialVariable": "COMPANY_PRICES_API_TOKEN"
+  },
+  "method": "POST",
+  "requestVersion": 1,
+  "responseVersion": 1,
+  "access": "authenticated_internal_users_only",
+  "publicCatalogAccess": false
+}

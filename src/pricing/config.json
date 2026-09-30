@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "currency": "BRL",
+  "refreshDays": 7,
+  "market": {
+    "status": "research_in_progress",
+    "automation": "thread_managed"
+  },
+  "company": {
+    "status": "not_connected",
+    "publicExposure": false
+  },
+  "selection": {
+    "requireExactConfiguration": true,
+    "requireAvailable": true,
+    "comparePaymentTerms": true,
+    "includeShippingWhenKnown": true,
+    "neverClaimGlobalLowest": true
+  }
+}

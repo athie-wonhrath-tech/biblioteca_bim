@@ -1,0 +1,616 @@
+﻿{
+  "source": "SHOWROOM_Novo BIM_V2026.rvt",
+  "title": "SHOWROOM_Novo BIM_V2026",
+  "revit": "2027",
+  "build": "27.3.0.28",
+  "units": "autodesk.unit.unit:centimeters-1.0.1",
+  "family_count": 877,
+  "loadable_count": 877,
+  "in_place_count": 0,
+  "editable_count": 868,
+  "family_type_count": 1827,
+  "other_type_count": 4766,
+  "view_count": 179,
+  "instance_count": 33333,
+  "categories": [
+    {
+      "category": null,
+      "category_id": null,
+      "instances": 22174
+    },
+    {
+      "category": "Materiais",
+      "category_id": -2000700,
+      "instances": 553
+    },
+    {
+      "category": "Eleva\u00E7\u00F5es",
+      "category_id": -2000535,
+      "instances": 1
+    },
+    {
+      "category": "Vistas",
+      "category_id": -2000278,
+      "instances": 2
+    },
+    {
+      "category": "Vistas",
+      "category_id": -2000279,
+      "instances": 99
+    },
+    {
+      "category": "Curvas de n\u00EDvel principais",
+      "category_id": -2001342,
+      "instances": 2
+    },
+    {
+      "category": "Esquemas de \u00E1rea",
+      "category_id": -2003201,
+      "instances": 3
+    },
+    {
+      "category": "Fases",
+      "category_id": -2000112,
+      "instances": 2
+    },
+    {
+      "category": "Terreno compart.",
+      "category_id": -2000110,
+      "instances": 2
+    },
+    {
+      "category": "Eixo do plano de trabalho",
+      "category_id": -2000055,
+      "instances": 26
+    },
+    {
+      "category": "Informa\u00E7\u00F5es do projeto",
+      "category_id": -2003101,
+      "instances": 1
+    },
+    {
+      "category": "Casos de carga estrutural",
+      "category_id": -2005210,
+      "instances": 8
+    },
+    {
+      "category": "Caminho do sol",
+      "category_id": -2009609,
+      "instances": 100
+    },
+    {
+      "category": "Origem interna",
+      "category_id": -2000977,
+      "instances": 1
+    },
+    {
+      "category": "Esquema de preenchimento de cor",
+      "category_id": -2000552,
+      "instances": 12
+    },
+    {
+      "category": "Tabelas de carga AVAC",
+      "category_id": -2008121,
+      "instances": 50
+    },
+    {
+      "category": "Configura\u00E7\u00F5es de tipo de constru\u00E7\u00E3o",
+      "category_id": -2008120,
+      "instances": 33
+    },
+    {
+      "category": "Configura\u00E7\u00F5es de tipo de espa\u00E7o",
+      "category_id": -2008119,
+      "instances": 125
+    },
+    {
+      "category": "Ponto de levantamento topogr\u00E1fico",
+      "category_id": -2001272,
+      "instances": 1
+    },
+    {
+      "category": "Ponto base do projeto",
+      "category_id": -2001271,
+      "instances": 1
+    },
+    {
+      "category": "Defini\u00E7\u00F5es de fator de demanda el\u00E9trica ",
+      "category_id": -2008142,
+      "instances": 10
+    },
+    {
+      "category": "Classifica\u00E7\u00F5es de carga el\u00E9trica",
+      "category_id": -2008143,
+      "instances": 17
+    },
+    {
+      "category": "Modelos de tabela de pain\u00E9is - Painel de ramifica\u00E7\u00E3o",
+      "category_id": -2008145,
+      "instances": 3
+    },
+    {
+      "category": "Modelos de tabela de pain\u00E9is - Painel de dados",
+      "category_id": -2008147,
+      "instances": 1
+    },
+    {
+      "category": "Modelos de tabela de pain\u00E9is - Caixa de interruptor",
+      "category_id": -2008146,
+      "instances": 1
+    },
+    {
+      "category": "Elemento de par\u00E2metro de classifica\u00E7\u00E3o de carga el\u00E9trica ",
+      "category_id": -2008148,
+      "instances": 102
+    },
+    {
+      "category": "Recursos de materiais",
+      "category_id": -2000924,
+      "instances": 130
+    },
+    {
+      "category": "Segmentos de tubula\u00E7\u00E3o",
+      "category_id": -2008163,
+      "instances": 19
+    },
+    {
+      "category": "Componentes de legenda",
+      "category_id": -2000576,
+      "instances": 876
+    },
+    {
+      "category": "Tabelas",
+      "category_id": -2000573,
+      "instances": 59
+    },
+    {
+      "category": "Folhas",
+      "category_id": -2003100,
+      "instances": 19
+    },
+    {
+      "category": "Blocos de margens e carimbo",
+      "category_id": -2000280,
+      "instances": 19
+    },
+    {
+      "category": "Planos de refer\u00EAncia",
+      "category_id": -2000530,
+      "instances": 20
+    },
+    {
+      "category": "Notas de texto",
+      "category_id": -2000300,
+      "instances": 299
+    },
+    {
+      "category": "Extremidades iniciais do eixo",
+      "category_id": -2006040,
+      "instances": 2
+    },
+    {
+      "category": "Linhas",
+      "category_id": -2000051,
+      "instances": 1210
+    },
+    {
+      "category": "Marcas de corte",
+      "category_id": -2000400,
+      "instances": 2
+    },
+    {
+      "category": "Extremidades de n\u00EDvel",
+      "category_id": -2006020,
+      "instances": 1
+    },
+    {
+      "category": "Extremidades de chamada de detalhe",
+      "category_id": -2000538,
+      "instances": 2
+    },
+    {
+      "category": "Marcas de eleva\u00E7\u00E3o",
+      "category_id": -2006045,
+      "instances": 10
+    },
+    {
+      "category": "S\u00EDmbolos de cota de eleva\u00E7\u00E3o",
+      "category_id": -2005100,
+      "instances": 1
+    },
+    {
+      "category": "Anota\u00E7\u00F5es gen\u00E9ricas",
+      "category_id": -2000150,
+      "instances": 59
+    },
+    {
+      "category": "T\u00EDtulos da vista",
+      "category_id": -2000515,
+      "instances": 1
+    },
+    {
+      "category": "Restri\u00E7\u00F5es",
+      "category_id": -2000262,
+      "instances": 7
+    },
+    {
+      "category": "Componentes de legenda",
+      "category_id": -2000575,
+      "instances": 51
+    },
+    {
+      "category": "Identificadores de dispositivos el\u00E9tricos",
+      "category_id": -2005004,
+      "instances": 97
+    },
+    {
+      "category": "Cotas",
+      "category_id": -2000260,
+      "instances": 97
+    },
+    {
+      "category": "Itens de detalhe",
+      "category_id": -2002000,
+      "instances": 13
+    },
+    {
+      "category": "\u003CCroqui\u003E",
+      "category_id": -2000045,
+      "instances": 56
+    },
+    {
+      "category": "Cotas de croqui autom\u00E1ticas",
+      "category_id": -2000261,
+      "instances": 27
+    },
+    {
+      "category": "N\u00EDveis",
+      "category_id": -2000240,
+      "instances": 40
+    },
+    {
+      "category": "Sequ\u00EAncias de numera\u00E7\u00E3o de revis\u00E3o",
+      "category_id": -2006071,
+      "instances": 2
+    },
+    {
+      "category": "\u003CLimite da \u00E1rea\u003E",
+      "category_id": -2000079,
+      "instances": 8
+    },
+    {
+      "category": "\u00C1reas",
+      "category_id": -2003200,
+      "instances": 1
+    },
+    {
+      "category": "Dispositivos el\u00E9tricos",
+      "category_id": -2001060,
+      "instances": 30
+    },
+    {
+      "category": "Revis\u00E3o",
+      "category_id": -2006070,
+      "instances": 1
+    },
+    {
+      "category": "Ambientes",
+      "category_id": -2000160,
+      "instances": 5
+    },
+    {
+      "category": "Gr\u00E1ficos da tabela",
+      "category_id": -2000570,
+      "instances": 24
+    },
+    {
+      "category": "Forros",
+      "category_id": -2000038,
+      "instances": 2
+    },
+    {
+      "category": "Terminais de ar",
+      "category_id": -2008013,
+      "instances": 2
+    },
+    {
+      "category": "Identificadores de m\u00FAltiplas categorias",
+      "category_id": -2005022,
+      "instances": 3731
+    },
+    {
+      "category": "Componentes de gabinete",
+      "category_id": -2001000,
+      "instances": 217
+    },
+    {
+      "category": "Identificadores de componentes de gabinete",
+      "category_id": -2005001,
+      "instances": 92
+    },
+    {
+      "category": "Paredes",
+      "category_id": -2000011,
+      "instances": 34
+    },
+    {
+      "category": "Equipamento especial",
+      "category_id": -2001350,
+      "instances": 2
+    },
+    {
+      "category": "Identificadores de equipamentos especiais",
+      "category_id": -2005014,
+      "instances": 12
+    },
+    {
+      "category": "Pe\u00E7as hidrossanit\u00E1rias",
+      "category_id": -2001160,
+      "instances": 292
+    },
+    {
+      "category": "Equipamento el\u00E9trico",
+      "category_id": -2001040,
+      "instances": 20
+    },
+    {
+      "category": "Vegeta\u00E7\u00E3o",
+      "category_id": -2001360,
+      "instances": 4
+    },
+    {
+      "category": "Identificadores de pe\u00E7a hidrossanit\u00E1ria",
+      "category_id": -2005010,
+      "instances": 18
+    },
+    {
+      "category": "Caixas de escopo",
+      "category_id": -2006000,
+      "instances": 18
+    },
+    {
+      "category": "Modelos gen\u00E9ricos",
+      "category_id": -2000151,
+      "instances": 123
+    },
+    {
+      "category": "Portas",
+      "category_id": -2000023,
+      "instances": 97
+    },
+    {
+      "category": "Identificadores de porta",
+      "category_id": -2000460,
+      "instances": 570
+    },
+    {
+      "category": "Mobili\u00E1rio",
+      "category_id": -2000080,
+      "instances": 758
+    },
+    {
+      "category": "Pain\u00E9is cortina",
+      "category_id": -2000170,
+      "instances": 29
+    },
+    {
+      "category": "Identificadores de material",
+      "category_id": -2005027,
+      "instances": 12
+    },
+    {
+      "category": "Identificadores de parede",
+      "category_id": -2005011,
+      "instances": 47
+    },
+    {
+      "category": "C\u00E2meras",
+      "category_id": -2000500,
+      "instances": 2
+    },
+    {
+      "category": "Caixas de corte",
+      "category_id": -2000301,
+      "instances": 2
+    },
+    {
+      "category": "Eixos de parede cortina",
+      "category_id": -2000321,
+      "instances": 15
+    },
+    {
+      "category": "Montantes de parede cortina",
+      "category_id": -2000171,
+      "instances": 48
+    },
+    {
+      "category": "Sistema de mobili\u00E1rio",
+      "category_id": -2001100,
+      "instances": 595
+    },
+    {
+      "category": "Escadas",
+      "category_id": -2000120,
+      "instances": 1
+    },
+    {
+      "category": "Lances",
+      "category_id": -2000919,
+      "instances": 2
+    },
+    {
+      "category": "Patamares",
+      "category_id": -2000920,
+      "instances": 1
+    },
+    {
+      "category": "Caminhos da escada",
+      "category_id": -2000938,
+      "instances": 1
+    },
+    {
+      "category": "Guarda-corpos",
+      "category_id": -2000126,
+      "instances": 2
+    },
+    {
+      "category": "Corrim\u00E3os superiores",
+      "category_id": -2000946,
+      "instances": 2
+    },
+    {
+      "category": "Linhas de extens\u00E3o do caminho do corrim\u00E3o de guarda-copo",
+      "category_id": -2000954,
+      "instances": 42
+    },
+    {
+      "category": "Corrim\u00E3os",
+      "category_id": -2000947,
+      "instances": 4
+    },
+    {
+      "category": "Bala\u00FAstres",
+      "category_id": -2000127,
+      "instances": 17
+    },
+    {
+      "category": "Identificadores de equipamento el\u00E9trico",
+      "category_id": -2005003,
+      "instances": 1
+    }
+  ],
+  "warnings": [
+    {
+      "description": "Os elementos t\u00EAm valores de \u201CMarca de tipo\u201D duplicados.",
+      "severity": "Warning",
+      "failing_ids": [
+        2326477,
+        2326479
+      ]
+    },
+    {
+      "description": "Os elementos t\u00EAm valores de \u201CMarca de tipo\u201D duplicados.",
+      "severity": "Warning",
+      "failing_ids": [
+        2478240,
+        2559012
+      ]
+    },
+    {
+      "description": "Os elementos t\u00EAm valores de \u201CMarca de tipo\u201D duplicados.",
+      "severity": "Warning",
+      "failing_ids": [
+        4173208,
+        4173210
+      ]
+    },
+    {
+      "description": "Os elementos t\u00EAm valores de \u201CMarca de tipo\u201D duplicados.",
+      "severity": "Warning",
+      "failing_ids": [
+        15752452,
+        15756004
+      ]
+    },
+    {
+      "description": "Os elementos t\u00EAm valores de \u201CMarca de tipo\u201D duplicados.",
+      "severity": "Warning",
+      "failing_ids": [
+        331464,
+        331802,
+        378593
+      ]
+    },
+    {
+      "description": "Os elementos t\u00EAm valores de \u201CMarca de tipo\u201D duplicados.",
+      "severity": "Warning",
+      "failing_ids": [
+        2593153,
+        2593259,
+        2593374
+      ]
+    },
+    {
+      "description": "Os elementos t\u00EAm valores de \u201CMarca de tipo\u201D duplicados.",
+      "severity": "Warning",
+      "failing_ids": [
+        331266,
+        331299,
+        331398,
+        331431
+      ]
+    },
+    {
+      "description": "Os elementos t\u00EAm valores de \u201CMarca de tipo\u201D duplicados.",
+      "severity": "Warning",
+      "failing_ids": [
+        1054873,
+        1055035,
+        1055232,
+        1055429,
+        1055584
+      ]
+    },
+    {
+      "description": "Os elementos t\u00EAm valores de \u201CMarca de tipo\u201D duplicados.",
+      "severity": "Warning",
+      "failing_ids": [
+        243872,
+        243880,
+        280100,
+        280106,
+        285327,
+        324685,
+        324749,
+        326009,
+        13640606
+      ]
+    },
+    {
+      "description": "Os elementos t\u00EAm valores de \u201CMarca\u201D duplicados.",
+      "severity": "Warning",
+      "failing_ids": [
+        8936504,
+        8936509,
+        8936512,
+        8936515,
+        8936532,
+        8936537,
+        8936542,
+        8936547
+      ]
+    },
+    {
+      "description": "H\u00E1 inst\u00E2ncias id\u00EAnticas no mesmo local. Isso resultar\u00E1 na contagem dupla nas tabelas.",
+      "severity": "Warning",
+      "failing_ids": [
+        17133182,
+        17133184
+      ]
+    },
+    {
+      "description": "H\u00E1 inst\u00E2ncias id\u00EAnticas no mesmo local. Isso resultar\u00E1 na contagem dupla nas tabelas.",
+      "severity": "Warning",
+      "failing_ids": [
+        17133190,
+        17133193
+      ]
+    },
+    {
+      "description": "H\u00E1 inst\u00E2ncias id\u00EAnticas no mesmo local. Isso resultar\u00E1 na contagem dupla nas tabelas.",
+      "severity": "Warning",
+      "failing_ids": [
+        17133198,
+        17133200
+      ]
+    },
+    {
+      "description": "H\u00E1 inst\u00E2ncias id\u00EAnticas no mesmo local. Isso resultar\u00E1 na contagem dupla nas tabelas.",
+      "severity": "Warning",
+      "failing_ids": [
+        17133206,
+        17133209
+      ]
+    }
+  ]
+}

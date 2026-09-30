@@ -1,0 +1,1762 @@
+﻿[
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 230,
+    "unique_id": "e3e052f9-0156-11d5-9301-0000863f27ad-000000e6",
+    "name": "Vista do projeto",
+    "view_type": "ProjectBrowser",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 69851,
+    "unique_id": "ae2fa8e5-0195-4f7a-b1fa-be87416d34f4-000110db",
+    "name": "Navegador do sistema",
+    "view_type": "SystemBrowser",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 106308,
+    "unique_id": "73313ac7-e4bb-49b9-a652-a31bb09b14fc-00019f44",
+    "name": "aw - tabelas",
+    "view_type": "Schedule",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 106501,
+    "unique_id": "73313ac7-e4bb-49b9-a652-a31bb09b14fc-0001a005",
+    "name": "aw - tabelas sem linhas",
+    "view_type": "Schedule",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 108000,
+    "unique_id": "936d0429-b789-413f-8fd7-ba66bd80c826-0001a5e0",
+    "name": "3D - vis\u00E3o geral do andar",
+    "view_type": "ThreeD",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 108117,
+    "unique_id": "936d0429-b789-413f-8fd7-ba66bd80c826-0001a655",
+    "name": "00 - detalhes 1/10",
+    "view_type": "Section",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 108118,
+    "unique_id": "936d0429-b789-413f-8fd7-ba66bd80c826-0001a656",
+    "name": "00 - detalhes 1/5",
+    "view_type": "Section",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 108119,
+    "unique_id": "936d0429-b789-413f-8fd7-ba66bd80c826-0001a657",
+    "name": "00 - detalhes 1/1",
+    "view_type": "Section",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 108126,
+    "unique_id": "936d0429-b789-413f-8fd7-ba66bd80c826-0001a65e",
+    "name": "04 - arq cortes 1/50",
+    "view_type": "Section",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 108127,
+    "unique_id": "936d0429-b789-413f-8fd7-ba66bd80c826-0001a65f",
+    "name": "00 - detalhes 1/25",
+    "view_type": "Section",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 117659,
+    "unique_id": "cbf2f847-88a9-46d2-90e6-a2c69019a960-0001cb9b",
+    "name": "01 - pol\u00EDtica de ocupa\u00E7\u00E3o",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 117663,
+    "unique_id": "cbf2f847-88a9-46d2-90e6-a2c69019a960-0001cb9f",
+    "name": "00 - capacidade m\u00E1xima",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 117664,
+    "unique_id": "cbf2f847-88a9-46d2-90e6-a2c69019a960-0001cba0",
+    "name": "00 - \u00E1rea total",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 124983,
+    "unique_id": "481aa4dd-86f2-4ceb-98a4-bd45a780f8f9-0001e837",
+    "name": "04 - eleva\u00E7\u00F5es",
+    "view_type": "Section",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 304121,
+    "unique_id": "bf5281cd-95ab-4365-b045-53069617471e-0004a3f9",
+    "name": "01 - levantamento f\u00EDsico",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 304290,
+    "unique_id": "0bcffec5-4c31-4aad-9894-755e1f830c19-0004a4a2",
+    "name": "01 - levantamento de mobili\u00E1rio",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 304291,
+    "unique_id": "57f4c6c8-e15c-44cc-bc38-8812913d0c44-0004a4a3",
+    "name": "01 - levantamento \u00E1reas",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 304311,
+    "unique_id": "17d1c83c-7bd3-4707-a0f8-51eb1b7f05ae-0004a4b7",
+    "name": "01 - levantamento de forro",
+    "view_type": "CeilingPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 304321,
+    "unique_id": "17d1c83c-7bd3-4707-a0f8-51eb1b7f05ae-0004a4c1",
+    "name": "01 - levantamento 3D",
+    "view_type": "ThreeD",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 304322,
+    "unique_id": "17d1c83c-7bd3-4707-a0f8-51eb1b7f05ae-0004a4c2",
+    "name": "01 - levantamento cortes e detalhes",
+    "view_type": "Detail",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 304445,
+    "unique_id": "1ab2e7dd-8cd4-459e-9d41-d2580fc20a47-0004a53d",
+    "name": "02 - \u00E1reas",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 305217,
+    "unique_id": "2426161b-e370-4cc4-aa5b-c4b075119d75-0004a841",
+    "name": "08 - marcenaria",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 305226,
+    "unique_id": "2426161b-e370-4cc4-aa5b-c4b075119d75-0004a84a",
+    "name": "09 - portas",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 309149,
+    "unique_id": "3ebce4c7-ac06-488f-9cd9-ab583a229063-0004b79d",
+    "name": "04 - arquitetura - demoli\u00E7\u00F5es e remanejamentos",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 309150,
+    "unique_id": "1b43e601-c109-46b3-bf84-af28fe603db8-0004b79e",
+    "name": "04 - arquitetura situa\u00E7\u00E3o final com demoli\u00E7\u00F5es e remanejamentos",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 309151,
+    "unique_id": "8846c58f-2b35-4ac2-b4bb-b437ff9e1924-0004b79f",
+    "name": "04 - arquitetura situa\u00E7\u00E3o final",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 316591,
+    "unique_id": "d9dee714-8505-4964-8a70-c675922a1287-0004d4af",
+    "name": "03 - mobili\u00E1rio \u0022cadeiras PADR\u00C3O ANTIGO\u0022",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 316592,
+    "unique_id": "c35083ce-c858-46d7-a76e-aae0e90bbaad-0004d4b0",
+    "name": "03 - mobili\u00E1rio remanejamento \u0022cadeiras PADR\u00C3O ANTIGO\u0022",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 317671,
+    "unique_id": "41c50f12-7c28-4b96-8e9f-ecae541c3fe9-0004d8e7",
+    "name": "02 - setoriza\u00E7\u00E3o (area plan)",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 317672,
+    "unique_id": "9df72f37-46a9-454c-9e1d-aeabb645eb06-0004d8e8",
+    "name": "02 - setoriza\u00E7\u00E3o (layout / cadeiras) \u0022PADR\u00C3O ANTIGO\u0022",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 319428,
+    "unique_id": "870c6965-6db1-48c6-83d8-aad4ceb7e04d-0004dfc4",
+    "name": "06 - piso final",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 320273,
+    "unique_id": "dfeed47f-6d7c-4a83-8539-7c5679168182-0004e311",
+    "name": "07 - planta de entreforro (floor plan)",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 320274,
+    "unique_id": "14aa6c31-65cb-416f-99e4-5b565cff7f65-0004e312",
+    "name": "07 - forro situa\u00E7\u00E3o final",
+    "view_type": "CeilingPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 320286,
+    "unique_id": "194d3504-7369-4c28-9124-3315f01145fb-0004e31e",
+    "name": "02 - \u00E1reas (centro de custo)",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 320290,
+    "unique_id": "e8ab1279-4f14-4150-a14a-8e5d0cf7643c-0004e322",
+    "name": "04 - eleva\u00E7\u00F5es de divis\u00F3rias",
+    "view_type": "Elevation",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 320299,
+    "unique_id": "4f16fd15-32e9-45a0-9466-87921f51e07a-0004e32b",
+    "name": "05 - indica\u00E7\u00E3o de pontos (wireframe)",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 320300,
+    "unique_id": "ba6448ae-c617-4fa2-b1a0-a1fd31100bdf-0004e32c",
+    "name": "03 - mobili\u00E1rio eleva\u00E7\u00F5es",
+    "view_type": "Section",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 320303,
+    "unique_id": "b813e250-c636-4a68-a389-ecdcfce85c51-0004e32f",
+    "name": "06 - piso enchimentos",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 336571,
+    "unique_id": "a73297bf-9056-414b-9181-fccc9f7dadb1-000522bb",
+    "name": "Vistas (3D c\u00E2meras)",
+    "view_type": "ThreeD",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 419349,
+    "unique_id": "cfc68621-8613-44eb-898c-c0ebec5bb9ff-00066615",
+    "name": "07 - forro demoli\u00E7\u00F5es e remanejamentos",
+    "view_type": "CeilingPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 428664,
+    "unique_id": "21047212-1406-4068-94bd-3d50b4a10877-00068a78",
+    "name": "06 - piso demoli\u00E7\u00F5es e remanejamentos",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 970552,
+    "unique_id": "d40e0cce-b807-483a-ab1f-64171592a0f5-000ecf38",
+    "name": "02 - setoriza\u00E7\u00E3o (layout / cadeiras) \u0022PADR\u00C3O NOVO\u0022",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 970564,
+    "unique_id": "d40e0cce-b807-483a-ab1f-64171592a0f5-000ecf44",
+    "name": "03 - mobili\u00E1rio \u0022cadeiras PADR\u00C3O NOVO\u0022",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 970566,
+    "unique_id": "642161ed-8291-474a-a28f-6f4cacec1a5b-000ecf46",
+    "name": "05 - indica\u00E7\u00E3o de pontos",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 970568,
+    "unique_id": "642161ed-8291-474a-a28f-6f4cacec1a5b-000ecf48",
+    "name": "00  - VIEW DE TRABALHO",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 1173717,
+    "unique_id": "b9d34551-cbe2-4bd3-aa74-08048b3d4a56-0011e8d5",
+    "name": "00 - apresenta\u00E7\u00E3o \u002B hierarquia",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 1173719,
+    "unique_id": "b9d34551-cbe2-4bd3-aa74-08048b3d4a56-0011e8d7",
+    "name": "00 - apresenta\u00E7\u00E3o",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 1183279,
+    "unique_id": "1687c346-f82b-43d0-bdc0-39655247afec-00120e2f",
+    "name": "03 - mobili\u00E1rio remanejamento \u0022cadeiras PADR\u00C3O NOVO\u0022",
+    "view_type": "FloorPlan",
+    "is_template": true,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 1251394,
+    "unique_id": "7d3cccac-a5d8-4e1b-8a87-52451f131361-00131842",
+    "name": "apresenta\u00E7\u00E3o",
+    "view_type": "DrawingSheet",
+    "is_template": false,
+    "kind": "prancha",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 1251398,
+    "unique_id": "7d3cccac-a5d8-4e1b-8a87-52451f131361-00131846",
+    "name": "setoriza\u00E7\u00E3o",
+    "view_type": "DrawingSheet",
+    "is_template": false,
+    "kind": "prancha",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 1251402,
+    "unique_id": "7d3cccac-a5d8-4e1b-8a87-52451f131361-0013184a",
+    "name": "mobili\u00E1rio",
+    "view_type": "DrawingSheet",
+    "is_template": false,
+    "kind": "prancha",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 1251406,
+    "unique_id": "7d3cccac-a5d8-4e1b-8a87-52451f131361-0013184e",
+    "name": "mobili\u00E1rio remanejamento",
+    "view_type": "DrawingSheet",
+    "is_template": false,
+    "kind": "prancha",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 1251410,
+    "unique_id": "7d3cccac-a5d8-4e1b-8a87-52451f131361-00131852",
+    "name": "demoli\u00E7\u00E3o",
+    "view_type": "DrawingSheet",
+    "is_template": false,
+    "kind": "prancha",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 1251414,
+    "unique_id": "7d3cccac-a5d8-4e1b-8a87-52451f131361-00131856",
+    "name": "arquitetura",
+    "view_type": "DrawingSheet",
+    "is_template": false,
+    "kind": "prancha",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 1251418,
+    "unique_id": "7d3cccac-a5d8-4e1b-8a87-52451f131361-0013185a",
+    "name": "piso demoli\u00E7\u00E3o",
+    "view_type": "DrawingSheet",
+    "is_template": false,
+    "kind": "prancha",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 1251422,
+    "unique_id": "7d3cccac-a5d8-4e1b-8a87-52451f131361-0013185e",
+    "name": "indica\u00E7\u00E3o de pontos",
+    "view_type": "DrawingSheet",
+    "is_template": false,
+    "kind": "prancha",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 1251426,
+    "unique_id": "7d3cccac-a5d8-4e1b-8a87-52451f131361-00131862",
+    "name": "piso final",
+    "view_type": "DrawingSheet",
+    "is_template": false,
+    "kind": "prancha",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 1251430,
+    "unique_id": "7d3cccac-a5d8-4e1b-8a87-52451f131361-00131866",
+    "name": "forro demoli\u00E7\u00E3o",
+    "view_type": "DrawingSheet",
+    "is_template": false,
+    "kind": "prancha",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 1251434,
+    "unique_id": "7d3cccac-a5d8-4e1b-8a87-52451f131361-0013186a",
+    "name": "forro final",
+    "view_type": "DrawingSheet",
+    "is_template": false,
+    "kind": "prancha",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 1463289,
+    "unique_id": "5321e138-36a9-4daf-a103-b5b46a0520ae-001653f9",
+    "name": "FG_19 - Sanca para instala\u00E7\u00E3o de persiana rol\u00F4 ou blackout sem guia",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 1463834,
+    "unique_id": "5321e138-36a9-4daf-a103-b5b46a0520ae-0016561a",
+    "name": "FG_20 - Sanca para instala\u00E7\u00E3o de blackout com guia \u002B persiana rol\u00F4 (c/ refor\u00E7o)",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 1494730,
+    "unique_id": "755e5e82-091c-4a90-a6cd-b8cde8f00596-0016ceca",
+    "name": "DETALHES DE FORRO",
+    "view_type": "DrawingSheet",
+    "is_template": false,
+    "kind": "prancha",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 1531337,
+    "unique_id": "38c756d9-4a3f-40cb-8a6b-a6d2ce4bd35c-00175dc9",
+    "name": "FG_01 - Tabica met\u00E1lica - fixa\u00E7\u00E3o em parede com revestimento cer\u00E2mico",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 1532588,
+    "unique_id": "38c756d9-4a3f-40cb-8a6b-a6d2ce4bd35c-001762ac",
+    "name": "FG_02 - Tabica met\u00E1lica - fixa\u00E7\u00E3o em parede com revestimento espessura maior que 1,5cm",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 1534704,
+    "unique_id": "8a9ba54a-1e58-4170-aef5-2ea73a8285bb-00176af0",
+    "name": "FG_05 - Sanca com ilumina\u00E7\u00E3o indireta simples",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 1535289,
+    "unique_id": "8a9ba54a-1e58-4170-aef5-2ea73a8285bb-00176d39",
+    "name": "FG_07 - Sanca com ilumina\u00E7\u00E3o indireta e desnivel de forro",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 1544865,
+    "unique_id": "f56e2170-3844-4127-bf19-690f9ac39423-001792a1",
+    "name": "FG_14 - Tabica met\u00E1lica - fixa\u00E7\u00E3o em parede com vidro lousa ou espelho",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 1551663,
+    "unique_id": "a474f472-b7e7-476d-ac45-a6742d95f976-0017ad2f",
+    "name": "FG_15 - Forro de gesso Perfurado - encontro c/ tabeira de gesso c/ sobreposi\u00E7\u00E3o de placa",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 1553310,
+    "unique_id": "b720f00f-704e-4b3a-9f4e-08a25c9bd411-0017b39e",
+    "name": "FG_16 - Forro de gesso Perfurado - nuvem c/ tabeira de gesso",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 1555666,
+    "unique_id": "2f107946-a434-4ab7-9b13-ff2f497a364c-0017bcd2",
+    "name": "FG_17 - Al\u00E7ap\u00E3o \u2013 forro de gesso perfurado sem abas",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 1556096,
+    "unique_id": "2f107946-a434-4ab7-9b13-ff2f497a364c-0017be80",
+    "name": "FG_18 - Al\u00E7ap\u00E3o - Nexacustic sem Abas",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 1570874,
+    "unique_id": "181848e3-4c62-4c94-be1d-1a901a363a44-0017f83a",
+    "name": "DETALHES DE PISO",
+    "view_type": "DrawingSheet",
+    "is_template": false,
+    "kind": "prancha",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 1682827,
+    "unique_id": "1adbddbb-99ac-4e98-9ac1-8f14785c7ba2-0019ad8b",
+    "name": "LISTA DE DETALHES",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 1759507,
+    "unique_id": "5e385d33-0aaa-4bc9-96da-58d7b26c0838-001ad913",
+    "name": "DETALHES DE MARCENARIA",
+    "view_type": "DrawingSheet",
+    "is_template": false,
+    "kind": "prancha",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 1883388,
+    "unique_id": "9f3f8260-e72e-4dcd-8160-d2004a21a98c-001cbcfc",
+    "name": "FG_03 - Tabica met\u00E1lica - fixa\u00E7\u00E3o em parede com revestimto espessura menor que 1,5cm",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 1896042,
+    "unique_id": "8a065bdf-5640-4340-99bc-69ed1f2da823-001cee6a",
+    "name": "FG_04 - Tabica met\u00E1lica - fixa\u00E7\u00E3o em parede com painel de madeira",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 1896413,
+    "unique_id": "8a065bdf-5640-4340-99bc-69ed1f2da823-001cefdd",
+    "name": "FG_06 - Sanca com ilumina\u00E7\u00E3o indireta dupla",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 1952540,
+    "unique_id": "d81f73f1-24ad-48ea-a78d-26c4128b8b56-001dcb1c",
+    "name": "FG_29 - Septo Drywall - Recuado 01 chapa",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 1953911,
+    "unique_id": "d81f73f1-24ad-48ea-a78d-26c4128b8b56-001dd077",
+    "name": "FG_30 - Septo Drywall - Recuado 02 chapas",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 1958740,
+    "unique_id": "d81f73f1-24ad-48ea-a78d-26c4128b8b56-001de354",
+    "name": "FG_28 - Fechamento vertical",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 1959024,
+    "unique_id": "d81f73f1-24ad-48ea-a78d-26c4128b8b56-001de470",
+    "name": "FG_26 - Forro de gesso c/ aplica\u00E7\u00E3o inovawall",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 1959375,
+    "unique_id": "d81f73f1-24ad-48ea-a78d-26c4128b8b56-001de5cf",
+    "name": "FG_08 - Sanca de gesso com ilumina\u00E7\u00E3o indireta - junto \u00E0 parede",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 1961441,
+    "unique_id": "d81f73f1-24ad-48ea-a78d-26c4128b8b56-001dede1",
+    "name": "FG_27 - Forro de gesso c/ aplica\u00E7\u00E3o inovawall \u002B lumin\u00E1ria",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 1964091,
+    "unique_id": "d81f73f1-24ad-48ea-a78d-26c4128b8b56-001df83b",
+    "name": "FG_11 - Transi\u00E7\u00E3o forro de gesso X forro modular com desn\u00EDvel e sobreposi\u00E7\u00E3o",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 1964732,
+    "unique_id": "d81f73f1-24ad-48ea-a78d-26c4128b8b56-001dfabc",
+    "name": "FG_10 - Sanca de gesso \u2013 para retorno de ar condicionado",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 1965323,
+    "unique_id": "d81f73f1-24ad-48ea-a78d-26c4128b8b56-001dfd0b",
+    "name": "FG_12 - Transi\u00E7\u00E3o forro de gesso X forro modular com desn\u00EDvel",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 1965855,
+    "unique_id": "d81f73f1-24ad-48ea-a78d-26c4128b8b56-001dff1f",
+    "name": "FG_24 - Sanca de gesso \u2013 c/ fechamento vertical junto a viga para instala\u00E7\u00E3o de persiana rol\u00F4",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 1966112,
+    "unique_id": "d81f73f1-24ad-48ea-a78d-26c4128b8b56-001e0020",
+    "name": "FG_13 - Sanca de gesso \u2013 para instala\u00E7\u00E3o cortina",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 1967047,
+    "unique_id": "d81f73f1-24ad-48ea-a78d-26c4128b8b56-001e03c7",
+    "name": "FG_09 - Sanca de gesso - com ilumina\u00E7\u00E3o de sobrepor",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 1967627,
+    "unique_id": "d81f73f1-24ad-48ea-a78d-26c4128b8b56-001e060b",
+    "name": "FG_21 - Persiana com band\u00F4 - fixo no forro de gesso",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 1968743,
+    "unique_id": "d81f73f1-24ad-48ea-a78d-26c4128b8b56-001e0a67",
+    "name": "FG_22 - Persiana com band\u00F4 - fixo na lateral da viga",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 1969057,
+    "unique_id": "d81f73f1-24ad-48ea-a78d-26c4128b8b56-001e0ba1",
+    "name": "FG_23 - Persiana com band\u00F4 - fixo sob a viga",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 1969659,
+    "unique_id": "d81f73f1-24ad-48ea-a78d-26c4128b8b56-001e0dfb",
+    "name": "FG_25 - Forro modular nuvem com perfil axiom",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2024062,
+    "unique_id": "7f381c9a-bbbc-4f54-82b0-9bc6ce1175d7-001ee27e",
+    "name": "DI_01 - Acabamento de topo para drywall entre divis\u00F3rias",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2024113,
+    "unique_id": "7f381c9a-bbbc-4f54-82b0-9bc6ce1175d7-001ee2b1",
+    "name": "DI_04 - Encontro - divis\u00F3ria industrial x caixilho",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2024122,
+    "unique_id": "7f381c9a-bbbc-4f54-82b0-9bc6ce1175d7-001ee2ba",
+    "name": "DI_08 - Controle de acesso em divis\u00F3ria",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2024609,
+    "unique_id": "7f381c9a-bbbc-4f54-82b0-9bc6ce1175d7-001ee4a1",
+    "name": "DI_07 - Painel de Agendamento em divis\u00F3ria - M\u00F3dulo T\u00E9cnico",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2025362,
+    "unique_id": "7f381c9a-bbbc-4f54-82b0-9bc6ce1175d7-001ee792",
+    "name": "DI_06 - Encontro de divis\u00F3ria industrial com piso e forro",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2025679,
+    "unique_id": "7f381c9a-bbbc-4f54-82b0-9bc6ce1175d7-001ee8cf",
+    "name": "DI_02 - Parede COM perfil de arremate topo",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2025705,
+    "unique_id": "7f381c9a-bbbc-4f54-82b0-9bc6ce1175d7-001ee8e9",
+    "name": "DI_03 - Parede SEM perfil de arremate topo",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2025716,
+    "unique_id": "7f381c9a-bbbc-4f54-82b0-9bc6ce1175d7-001ee8f4",
+    "name": "DI_05 - Encontro divis\u00F3ria industrial X parede drywall X caixilho",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2025902,
+    "unique_id": "7f381c9a-bbbc-4f54-82b0-9bc6ce1175d7-001ee9ae",
+    "name": "DI_09 - Afastamento Porta x parede com revestimento acustico",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2032569,
+    "unique_id": "7f381c9a-bbbc-4f54-82b0-9bc6ce1175d7-001f03b9",
+    "name": "DETALHES DE DIVIS\u00D3RIAS INDUSTRIAIS",
+    "view_type": "DrawingSheet",
+    "is_template": false,
+    "kind": "prancha",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2036045,
+    "unique_id": "8d5ec013-711f-4f67-acc8-e7528bc66d89-001f114d",
+    "name": "ARQ_01 - Instala\u00E7\u00F5es em parede RF para CPD (sobreposto/sobreposto)",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2036219,
+    "unique_id": "8d5ec013-711f-4f67-acc8-e7528bc66d89-001f11fb",
+    "name": "ARQ_02 - Instala\u00E7\u00F5es em parede RF para CPD (sobreposto/embutido)",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2036777,
+    "unique_id": "8d5ec013-711f-4f67-acc8-e7528bc66d89-001f1429",
+    "name": "ARQ_04 - Encontro - Parede drywall x parede de alvenaria/pilar existente",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2036798,
+    "unique_id": "8d5ec013-711f-4f67-acc8-e7528bc66d89-001f143e",
+    "name": "ARQ_07 - Acabamento parede core /contraparede",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2036835,
+    "unique_id": "8d5ec013-711f-4f67-acc8-e7528bc66d89-001f1463",
+    "name": "ARQ_06 - Acabamento parede core /chapeamento",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2036887,
+    "unique_id": "8d5ec013-711f-4f67-acc8-e7528bc66d89-001f1497",
+    "name": "ARQ_05 - Acabamento parede  jateamento / contraparede",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2036972,
+    "unique_id": "8d5ec013-711f-4f67-acc8-e7528bc66d89-001f14ec",
+    "name": "ARQ_08 - Encontro - parede drywall x caixilho",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2037179,
+    "unique_id": "8d5ec013-711f-4f67-acc8-e7528bc66d89-001f15bb",
+    "name": "ARQ_10 - Revestimento de placa de gesso acartonado estruturado - pilar met\u00E1lico posi\u00E7\u00E3o H",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2038051,
+    "unique_id": "8d5ec013-711f-4f67-acc8-e7528bc66d89-001f1923",
+    "name": "ARQ_22 - Refor\u00E7o parede drywall x divis\u00F3ria /porta industrial",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2038057,
+    "unique_id": "8d5ec013-711f-4f67-acc8-e7528bc66d89-001f1929",
+    "name": "ARQ_19 - Caixas de el\u00E9trica - lados opostos",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2039002,
+    "unique_id": "8d5ec013-711f-4f67-acc8-e7528bc66d89-001f1cda",
+    "name": "ARQ_17 - Instala\u00E7\u00E3o de pontos para TV na parede",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2039599,
+    "unique_id": "8d5ec013-711f-4f67-acc8-e7528bc66d89-001f1f2f",
+    "name": "ARQ_14 - Nicho Instala\u00E7\u00E3o de TV com Wall Box Simples",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2040033,
+    "unique_id": "8d5ec013-711f-4f67-acc8-e7528bc66d89-001f20e1",
+    "name": "ARQ_18 - Instala\u00E7\u00E3o de TV com caixa de pontos convencional",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2040210,
+    "unique_id": "8d5ec013-711f-4f67-acc8-e7528bc66d89-001f2192",
+    "name": "ARQ_15 - Elev. Instala\u00E7\u00E3o de TV com Wall Box Simples",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2040466,
+    "unique_id": "8d5ec013-711f-4f67-acc8-e7528bc66d89-001f2292",
+    "name": "ARQ_03 - Bit de transi\u00E7\u00E3o entre acabamentos no drywall",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2040625,
+    "unique_id": "8d5ec013-711f-4f67-acc8-e7528bc66d89-001f2331",
+    "name": "ARQ_11 - Fechamento Cubeta (Piso-Laje)",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2040632,
+    "unique_id": "8d5ec013-711f-4f67-acc8-e7528bc66d89-001f2338",
+    "name": "ARQ_13 - Fechamento Cubeta com forro",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2041121,
+    "unique_id": "8d5ec013-711f-4f67-acc8-e7528bc66d89-001f2521",
+    "name": "ARQ_12 - Fechamento Cubeta (Piso-Laje) recuado",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2041904,
+    "unique_id": "8d5ec013-711f-4f67-acc8-e7528bc66d89-001f2830",
+    "name": "ARQ_09 - Parede Drywall x Pilares Existentes",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2042007,
+    "unique_id": "8d5ec013-711f-4f67-acc8-e7528bc66d89-001f2897",
+    "name": "ARQ_20 - Septo Vertical x Divis\u00F3ria Retr\u00E1til - com forro",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2044100,
+    "unique_id": "8d5ec013-711f-4f67-acc8-e7528bc66d89-001f30c4",
+    "name": "ARQ_21 - Septo Vertical x Divis\u00F3ria Retr\u00E1til - com laje aparente",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2046932,
+    "unique_id": "8d5ec013-711f-4f67-acc8-e7528bc66d89-001f3bd4",
+    "name": "ARQ_23 - Refor\u00E7o em parede drywall - madeira",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2048906,
+    "unique_id": "8d5ec013-711f-4f67-acc8-e7528bc66d89-001f438a",
+    "name": "ARQ_16 - Elev. Instala\u00E7\u00E3o de TV com Wall Box com suporte p/ equip",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2054410,
+    "unique_id": "116e63c0-30ae-4332-86f3-cb3627009a46-001f590a",
+    "name": "DETALHES DE ARQUITETURA",
+    "view_type": "DrawingSheet",
+    "is_template": false,
+    "kind": "prancha",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2098219,
+    "unique_id": "0af23757-d2d4-4cf0-8135-61674bdd35e2-0020042b",
+    "name": "DETALHES DE HIDR\u00C1ULICA",
+    "view_type": "DrawingSheet",
+    "is_template": false,
+    "kind": "prancha",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2098237,
+    "unique_id": "0af23757-d2d4-4cf0-8135-61674bdd35e2-0020043d",
+    "name": "HD_01 - Bomba de Recalque com Caixa de Gordura e Sensor de Inunda\u00E7\u00E3o",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2099593,
+    "unique_id": "0af23757-d2d4-4cf0-8135-61674bdd35e2-00200989",
+    "name": "HD_02 - Bomba de Recalque e Sensor de Inunda\u00E7\u00E3o para Copas SEM refei\u00E7\u00E3o",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2100610,
+    "unique_id": "0af23757-d2d4-4cf0-8135-61674bdd35e2-00200d82",
+    "name": "HD_03 - Bomba de Recalque com Caixa de Gordura, Triturador e Sensor  de Inunda\u00E7\u00E3o",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2102155,
+    "unique_id": "0af23757-d2d4-4cf0-8135-61674bdd35e2-0020138b",
+    "name": "HD_08 - Bancada para Copa Acess\u00EDvel com recuo em marcenaria.",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2103384,
+    "unique_id": "0af23757-d2d4-4cf0-8135-61674bdd35e2-00201858",
+    "name": "HD_06 - Bomba de Recalque para Sanit\u00E1rio com Bacia e Cuba (sem Ralo)",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2104841,
+    "unique_id": "0af23757-d2d4-4cf0-8135-61674bdd35e2-00201e09",
+    "name": "HD_05 - Bomba de Recalque para Sanit\u00E1rio com Bacia, Cuba e Ralo",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2106945,
+    "unique_id": "0af23757-d2d4-4cf0-8135-61674bdd35e2-00202641",
+    "name": "HD_04 - Caixa de Gordura por Gravidade e Sensor de Inunda\u00E7\u00E3o",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2108407,
+    "unique_id": "0af23757-d2d4-4cf0-8135-61674bdd35e2-00202bf7",
+    "name": "HD_07 - Bomba de Recalque para Bacia Sanit\u00E1ria",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2110135,
+    "unique_id": "0af23757-d2d4-4cf0-8135-61674bdd35e2-002032b7",
+    "name": "HD_12 - Mict\u00F3rio com sif\u00E3o integrado",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2110376,
+    "unique_id": "0af23757-d2d4-4cf0-8135-61674bdd35e2-002033a8",
+    "name": "HD_09 - Caixa de descarga - Instala\u00E7\u00E3o padr\u00E3o em drywall e com bacia sanit\u00E1ria convencional (sa\u00EDda vertical)",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2111440,
+    "unique_id": "0af23757-d2d4-4cf0-8135-61674bdd35e2-002037d0",
+    "name": "HD_10 - Caixa de descarga - Instala\u00E7\u00E3o padr\u00E3o em drywall e com bacia sanit\u00E1ria com saida horizontal",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2112505,
+    "unique_id": "0af23757-d2d4-4cf0-8135-61674bdd35e2-00203bf9",
+    "name": "HD_11 - Caixa de descarga - Instala\u00E7\u00E3o padr\u00E3o em drywall e com bacia sanit\u00E1ria suspensa",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2118728,
+    "unique_id": "d9adb377-9953-4142-b772-4c3d95faa5f1-00205448",
+    "name": "\u003CRevision Schedule\u003E",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2118743,
+    "unique_id": "d9adb377-9953-4142-b772-4c3d95faa5f1-00205457",
+    "name": "\u003CRevision Schedule\u003E 3",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2118748,
+    "unique_id": "d9adb377-9953-4142-b772-4c3d95faa5f1-0020545c",
+    "name": "\u003CRevision Schedule\u003E 5",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2118753,
+    "unique_id": "d9adb377-9953-4142-b772-4c3d95faa5f1-00205461",
+    "name": "\u003CRevision Schedule\u003E 6",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2118800,
+    "unique_id": "a8caed71-d2db-4faf-9098-292e021be5a9-00205490",
+    "name": "MAR_02 - Puxador cava superior",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2118844,
+    "unique_id": "a8caed71-d2db-4faf-9098-292e021be5a9-002054bc",
+    "name": "MAR_03 - Puxador cava inferior",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2118862,
+    "unique_id": "a8caed71-d2db-4faf-9098-292e021be5a9-002054ce",
+    "name": "MAR_04 - Puxador cava inferior",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2118882,
+    "unique_id": "a8caed71-d2db-4faf-9098-292e021be5a9-002054e2",
+    "name": "MAR_05 - Puxador cava vertical",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2119018,
+    "unique_id": "a8caed71-d2db-4faf-9098-292e021be5a9-0020556a",
+    "name": "MAR_06 - Prateleira suspensa",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2119185,
+    "unique_id": "a8caed71-d2db-4faf-9098-292e021be5a9-00205611",
+    "name": "MAR_01 - Puxador cava superior X bancada em pedra",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2119247,
+    "unique_id": "a8caed71-d2db-4faf-9098-292e021be5a9-0020564f",
+    "name": "MAR_07 - Caixa de tomadas no tampo em BP",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2119452,
+    "unique_id": "d9d70921-07fa-4793-8359-f201a6751ae5-0020571c",
+    "name": "\u003CRevision Schedule\u003E 4",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2119464,
+    "unique_id": "83aca15c-55bb-40c9-913f-515845739948-00205728",
+    "name": "PA_01 - Enchimento X Piso Elevado - Transi\u00E7\u00E3o \u00C1rea Seca X Molhada",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2120049,
+    "unique_id": "83aca15c-55bb-40c9-913f-515845739948-00205971",
+    "name": "PA_02 - Transi\u00E7\u00E3o de Piso com Soleira - \u00C1rea Seca X Molhada (Porta PCD)",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2120243,
+    "unique_id": "83aca15c-55bb-40c9-913f-515845739948-00205a33",
+    "name": "PA_03 - Transi\u00E7\u00E3o de Piso com Baguete - \u00C1rea Seca X Molhada",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2120468,
+    "unique_id": "83aca15c-55bb-40c9-913f-515845739948-00205b14",
+    "name": "PA_05 - Piso Academia com enchimento",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2120479,
+    "unique_id": "83aca15c-55bb-40c9-913f-515845739948-00205b1f",
+    "name": "PA_06 - Piso Academia com refor\u00E7o",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2120543,
+    "unique_id": "83aca15c-55bb-40c9-913f-515845739948-00205b5f",
+    "name": "PA_07 - Piso Academia com enchimento",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2120914,
+    "unique_id": "83aca15c-55bb-40c9-913f-515845739948-00205cd2",
+    "name": "PA_04 - Transi\u00E7\u00E3o de piso box banheiro",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2121054,
+    "unique_id": "83aca15c-55bb-40c9-913f-515845739948-00205d5e",
+    "name": "PA_10 - Desn\u00EDvel de piso - degrau com revestimento de pedra com bocel",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2121150,
+    "unique_id": "83aca15c-55bb-40c9-913f-515845739948-00205dbe",
+    "name": "PA_09 -  Desn\u00EDvel de piso - degrau de escada met\u00E1lica com revestimento (vinilico ou carpete) em bandeja",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2121230,
+    "unique_id": "83aca15c-55bb-40c9-913f-515845739948-00205e0e",
+    "name": "PA_11 - Desn\u00EDvel de piso - degrau  com revestimento de pedra com friso",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2121346,
+    "unique_id": "83aca15c-55bb-40c9-913f-515845739948-00205e82",
+    "name": "PA_14 - Jardim seco - perfil embutido",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2121357,
+    "unique_id": "83aca15c-55bb-40c9-913f-515845739948-00205e8d",
+    "name": "PA_15 - Jardim seco - perfil sobreposto",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2121457,
+    "unique_id": "83aca15c-55bb-40c9-913f-515845739948-00205ef1",
+    "name": "PA_13 - Friso anti-derrapante em degrau revestido com pedra",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2121817,
+    "unique_id": "83aca15c-55bb-40c9-913f-515845739948-00206059",
+    "name": "PA_12 - Desn\u00EDvel de piso - degrau com painel wall e ilumina\u00E7\u00E3o",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2122140,
+    "unique_id": "83aca15c-55bb-40c9-913f-515845739948-0020619c",
+    "name": "PA_16 - Acabamento de porcelanato com perfil met\u00E1lico (meia parede ou rodap\u00E9)",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2122483,
+    "unique_id": "83aca15c-55bb-40c9-913f-515845739948-002062f3",
+    "name": "PA_08 -  Desn\u00EDvel de piso - degrau de escada met\u00E1lica com revestimento (pedra ou porcelanato) em bandeja",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2123169,
+    "unique_id": "b08051df-bfdd-4b9d-bad1-afebe1128e80-002065a1",
+    "name": "\u003CRevision Schedule\u003E 2",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2123178,
+    "unique_id": "5ed5daf9-f700-4ed4-9cd7-4d7a5e82f07f-002065aa",
+    "name": "ACAB_01 - Lousa x Painel Ac\u00FAstico Inovawall",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2123263,
+    "unique_id": "5ed5daf9-f700-4ed4-9cd7-4d7a5e82f07f-002065ff",
+    "name": "ACAB_02 - Lousa x Painel Ac\u00FAstico Nexacustic (com fun\u00E7\u00E3o acustica)",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2123380,
+    "unique_id": "5ed5daf9-f700-4ed4-9cd7-4d7a5e82f07f-00206674",
+    "name": "ACAB_03 - Lousa x Painel Ac\u00FAstico Nexacustic (sem fun\u00E7\u00E3o ac\u00FAstica)",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2124052,
+    "unique_id": "5ed5daf9-f700-4ed4-9cd7-4d7a5e82f07f-00206914",
+    "name": "ACAB_04 - Acabamento parede core/ jateamento",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2124378,
+    "unique_id": "5ed5daf9-f700-4ed4-9cd7-4d7a5e82f07f-00206a5a",
+    "name": "DETALHES DE ACABAMENTOS",
+    "view_type": "DrawingSheet",
+    "is_template": false,
+    "kind": "prancha",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2124399,
+    "unique_id": "5ed5daf9-f700-4ed4-9cd7-4d7a5e82f07f-00206a6f",
+    "name": "\u003CRevision Schedule\u003E 7",
+    "view_type": "Schedule",
+    "is_template": false,
+    "kind": "vista",
+    "duplicate_state": "manter"
+  },
+  {
+    "source": "DETALHES 2D\\AW26_DETALHES CONSTRUTIVOS_R00.rvt",
+    "id": 2124414,
+    "unique_id": "1c96da7c-f64c-4952-829a-c902dd78ca0d-00206a7e",
+    "name": "MAR_08 - Puxador cava superior / inferior",
+    "view_type": "DraftingView",
+    "is_template": false,
+    "kind": "detalhe_vista_desenho",
+    "duplicate_state": "manter"
+  }
+]

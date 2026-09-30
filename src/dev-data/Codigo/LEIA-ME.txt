@@ -1,0 +1,1 @@
+Fontes da interface e contrato futuro de busca IA. Não contém credenciais. O download-worker.mjs depende de downloads.mjs gerado de data/downloads.json e do armazenamento de objetos BIM_FILES; o índice de exportação relaciona hashes e arquivos. A infraestrutura do desenvolvedor precisa implementar esse armazenamento e adaptar rotas. A organização pessoal está no backup separado.
